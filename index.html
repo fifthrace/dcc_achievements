@@ -20,7 +20,7 @@
     <script>
         async function getRandomAchievement() {
             try {
-                const response = await fetch('https://fifthrace.github.io/dcc-achievements/detailed_achievements.json');
+                const response = await fetch('https://fifthrace.github.io/dcc_achievements/detailed_achievements.json');
                 const achievements = await response.json();
                 const randomAchievement = achievements[Math.floor(Math.random() * achievements.length)];
 
