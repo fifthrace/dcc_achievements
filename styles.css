@@ -24,14 +24,20 @@ body {
 .achievement {
     margin-top: 20px;
     padding: 20px;
-    border: 3px solid #8B5A2B; /* A rich brown border */
+    border: 3px solid #8B5A2B; /* Rich brown border */
     border-radius: 10px;
     display: inline-block;
     text-align: left;
-    background: url('parchment_texture.jpg') center/cover no-repeat; /* Use a parchment texture */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Adds some depth */
-    color: #3e2723; /* Dark brown text */
+    background: url('parchment_texture.jpg') center/cover no-repeat; /* Parchment texture */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Adds depth */
+    color: #000; /* Change to black for readability */
     font-family: 'Papyrus', fantasy;
+    text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.5);
+}
+
+/* Alternative - Dark Gold */
+.achievement {
+    color: #5a3d1b; /* Dark gold text */
 }
 
 
