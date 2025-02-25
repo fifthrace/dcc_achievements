@@ -21,9 +21,19 @@ body {
     transition: transform 0.3s ease-in-out;
 }
 
-#fact-box:hover {
-    transform: scale(1.05);
+.achievement {
+    margin-top: 20px;
+    padding: 20px;
+    border: 3px solid #8B5A2B; /* A rich brown border */
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
+    background: url('parchment_texture.jpg') center/cover no-repeat; /* Use a parchment texture */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Adds some depth */
+    color: #3e2723; /* Dark brown text */
+    font-family: 'Papyrus', fantasy;
 }
+
 
 h1 {
     font-size: 2em;
