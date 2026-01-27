@@ -1,562 +1,687 @@
 [
     {
-        "title": "Apex Predator",
-        "description": "New Achievement. Apex Predator.\nHoly shit.\nThey’re dead.\nAll of them.\nEvery. Last. One.\nNot only did you kill more hunters than everyone else, but you killed the very last one. One could fill a very stinky swimming pool with the blood you spilled on the Hunting Grounds.\nYou have become a very scary dude. Maybe I should be callingyoudaddy instead of the other way around.\nReward:Nothing!\n\n...\nJust kidding. You have received a CelestialPredator Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Apex%20Predator"
+        "title": "Crazy Cat Lady Achievement",
+        "description": "Trigger: entering the dungeon with a cat.\nReward: Bronze Pet Box[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Crazy_Cat_Lady_Achievement"
     },
     {
-        "title": "Assassin! Achievement",
-        "description": "You have killed a ranking NPC town official. *Sniff* It seems like just yesterday you were nothing but a scared, level-1 crawler with beautiful feet, pissing yourself as you faced down a rat. Now look at you. You've moved all the way up to political assassinations. What's next? Killing a god?\nReward:You've received a BronzeAssassin's Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Assassin%21%20Achievement"
+        "title": "Trailblazing Crazy Cat Lady Achievement",
+        "description": "Trigger: being the first to enter the dungeon with a cat.\nReward: Legendary Pet Box[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Trailblazing_Crazy_Cat_Lady_Achievement"
     },
     {
-        "title": "B'sieging",
-        "description": "You've used siege equipment to zero in and attack a boss monster from afar. That's cheating! It's like trying to kill someone with a bomb. What a bitch move!\nReward:You've received a SilverSiege Master Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/B%27sieging"
+        "title": "Early Adopter Achievement",
+        "description": "Trigger: being one of the first 5,000 crawlers.\nReward: Silver Adventurer Box[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Early_Adopter_Achievement"
     },
     {
-        "title": "Bandit",
-        "description": "Screw Hadji. Hadji was a little bitch, anyway. You have completed a quest, but it was completed in a way unusual enough to trigger the Bandit Achievement! Unlike the real Bandit, who is usually instrumental in helping Jonny Quest complete his tasks, you didn't actually do anything to deserve this prize. But that's okay because you're still getting it. This is one of the rare achievements that can be rewarded more than once.\nReward:Your PlatinumQuest Boxhas been upgraded two times to a Celestial Quest Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bandit"
-    },
-    {
-        "title": "Battlefield Construction!",
-        "description": "New achievement! Battlefield Construction!\nYou built a structure and deployed it in battle. And your mother thought you were wasting your life away while you spent all those hours eating Doritos and playing Minecraft. If only she could see you now. Too bad she’s probably dead.\nReward:You’ve received a SilverMechanic's Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Battlefield%20Construction%21"
-    },
-    {
-        "title": "Bisected",
-        "description": "You teleported into a solid object. Congratulations. You've lost your...\nOh, wait! You were teleported due to an administrative action. That means your privileged ass was saved. Again. No missing arm or leg. No dungeon-style circumcision. Nothing. Boy, you must really bring in the cheddar for them to keep coddling you like this.\nTeleport mishaps are funny as shit. You ever seeThe Fly? Anyway, you don't have to worry about it. This time.\nReward: You've received a SilverLucky Bastard box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bisected"
-    },
-    {
-        "title": "Bitchmeat! Achievement",
-        "description": "New Achievement! Bitchmeat!\nYou’ve been attacked by a fellow crawler in a safe zone, and the system has been forced to save your ass. That usually suggests you’re either really annoying, or you snore.\nIf this were a prison, you would now be my bitch. Wait…\nReward:Bitches don’t get rewards.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bitchmeat%21%20Achievement"
-    },
-    {
-        "title": "Boom! Achievement",
-        "description": "New achievement! Boom!\nYou’ve caused a wall-shaking explosion within the dungeon! The last time the walls shook like this was when your mom came over for a visit.\nReward:You’ve received a SilverGoblin Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Boom%21%20Achievement"
-    },
-    {
-        "title": "Borough Boss! Achievement",
-        "description": "New achievement! Borough Boss!\nSo, you’ve stumbled into the chamber of the second-weakest type of boss. If you survive this, it means you are in the top 5% of all crawlers. Too bad only the top .25% make it past the next tier.\nReward:Yeah, no.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Borough%20Boss%21%20Achievement"
-    },
-    {
-        "title": "Boss Babe",
-        "description": "New achievement! Boss Babe.\nYou have struck a blow against a dungeon boss and caused damage to it. Here's a fun fact. For crawlers who make it through the tutorial, this achievement is, by far, most often the last achievement they ever receive. Isn't that interesting?\nReward:Let's wait a few minutes before we decide on whether or not to waste a prize on you.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Boss%20Babe"
-    },
-    {
-        "title": "Bosses Can Leave Their Rooms? Achievement",
-        "description": "New Achievement! Wait, Bosses Can Leave Their Rooms?\nWelcome to the second floor, bitches.\nReward:This shit plays great on therecap episode. If you scream loud enough, maybe you’ll make the show.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bosses%20Can%20Leave%20Their%20Rooms%3F%20Achievement"
-    },
-    {
-        "title": "Bully and a Thief",
-        "description": "New achievement! Bullyanda Thief!\nYou’ve stolen property from a fellow crawler who is a lower level than you. What’s next, tough guy? Kicking puppies?\nReward:You’ve received a BronzeAsshole's Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bully%20and%20a%20Thief"
-    },
-    {
-        "title": "Cannonball! Achievement",
-        "description": "New Achievement! Cannonball!\nYou fell from a great height, and you survived! You know who else fell from a...? You know what, never mind. Fuck you.\nReward:You received a SilverSkydiver's Box! Not that you deserve it you little punk.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cannonball%21%20Achievement"
-    },
-    {
-        "title": "CockBlock",
-        "description": "You have assassinated an NPC whose existence was required to complete another crawler's quest. (NPC Killed: Miss Quill - Skyfowl. Level 30.) Who was that other crawler? What was the quest? Who fucking cares? You get the reward they were promised! Warning: You may only receive this award once. The next time you do it, we tell them who you are. And then they get a new quest to kill you. Nobody likes cockblocks.\nReward:You've received a SilverQuest Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/CockBlock"
-    },
-    {
-        "title": "Crazy Cat Lady",
-        "description": "Congratulations! You’ve earned your first achievement: Crazy Cat Lady.\nYou have entered the World Dungeon accompanied by a cat. Ahh, isn’t that sweet?\nReward:You’ve received a BronzePet Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Crazy%20Cat%20Lady"
-    },
-    {
-        "title": "Cuck Aquaman",
-        "description": "You got fucked by a fish. You've done something so spectacularly controversial, courts and lawyers had to get involved. The end result was *my* decision being overturned.\nReward:You've received a PlatinumIt's Not My Fault You Fish-Headed Assholes Don't Properly Program Your Quests Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cuck%20Aquaman"
-    },
-    {
-        "title": "Cut!",
-        "description": "This is an achievement thatDonutsays she received for being a good actress when she tricked theGoblin Shamankasonthe second floor.\nThis achievement and having one trillion views are the two pre-requisites that allowDonutto select theFormer Child Actorclass during class selection on the third floor.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cut%21"
-    },
-    {
-        "title": "Desecrated",
-        "description": "You have found a desecrated temple! That means all the temple's attendants have been murdered. The temple's treasury has been looted. The sacred wine has probably been all lapped up, too.\nAnd this used to be a nice town. It hasn't been the same since you guys moved in.\nIf you are an adherent of this temple, you may no longer worship here. You've also probably just received a quest to hunt down and kill the heather who did this.\nIf youdon'tworship this god, just scram. Remember that time you walked in on mommy and daddy playing leapfrog? It's just like that. Back away. Don't touch anything. Never talk about it again.\nYou should also probably avoid the person who did this. Not only does society frown upon those who slaughter whole congregations, but there are real consequences for this sort of stuff.\nReward: You entered a building. You don't get a reward for that. It's not like you kicked it up a notch by defiling the shrine.\nOh, wait.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Desecrated"
-    },
-    {
-        "title": "Disarming Personality",
-        "description": "You ripped a fellow crawler's arm off! With your bare hands! Holy shit!\nReward:You received a SilverSavage Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Disarming%20Personality"
-    },
-    {
-        "title": "Divine Epiphany",
-        "description": "You have seen a deity. Don’t get too excited. It doesn’t mean you’re a prophet or anything like that. This is a pretty common achievement that all crawlers eventually receive if they survive long enough, so you aren’t really that special. Finding a god is easy. What you don’t want is for that god to find you.\nReward: You now have the option to worship the godGrull.\nAdmin Note:There is a new tab now available in your interface.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Divine%20Epiphany"
-    },
-    {
-        "title": "Double-Billed",
-        "description": "You are one of the first five crawlers to receive double-billing! I bet you don't know what that means. This is similar to switch-overs, but this time it's on purpose. I bet that didn't help at all.\nReward:You have received a Platinum Fan Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Double-Billed"
-    },
-    {
-        "title": "Dungeonpreneur",
-        "description": "New achievement!Dungeonpreneur.\nYou have invented a stackable weapon, device, or potion. You will be memorialized for eternity with your name in theDungeon Codex. Just don’t let it go to your head, Elon.\nReward:For every kill made with this device by other crawlers, you will receive a singlegold coin. If you survive the dungeon, you will continue to receive this benefit—even during futureseasons—at the current gold tocreditexchange rate for the remainder of your natural life. Our lawyers made us put that last part in, but between you and me, we both know you’re going to die, and we’re going to keep using your hard work for our own benefit.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Dungeonpreneur"
-    },
-    {
-        "title": "Early Adopter",
-        "description": "You are one of the first 5,000 Crawlers to enter a new World Dungeon. Sucker.\nReward:You've received a SilverAdventurer Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Early%20Adopter"
-    },
-    {
-        "title": "Early Bird Gets to Squirm",
-        "description": "Carldescended to theFourth Floorearly to escape the explosion from theFools Who Broke the Glassquest.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Early%20Bird%20Gets%20to%20Squirm"
-    },
-    {
-        "title": "Empty Pockets",
-        "description": "You didn't bring any supplies. None. You know you still gotta eat, right?\n\nReward: You've received a Bronze Adventurer Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Empty_Pockets"
-    },
-    {
-        "title": "Extinction Event",
-        "description": "You have, with a single attack, killed every last member of a non-unique species on a dungeon’s floor. That’s not an easy thing to do, and it takes a special brand of asshole to pull something like this off.\nSpecies killed: Wall Monitors.\nReward: You have received aPlatinum Asshole’s Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Extinction%20Event"
-    },
-    {
-        "title": "Fall Into an Obvious Trap",
-        "description": "New achievement! Fall into an obvious trap.\n\nReward: Well, if there's a heaven, and if you haven't been too much of an asshole, maybe they'll let you in. Because you about to meet your maker.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fall_Into_an_Obvious_Trap"
-    },
-    {
-        "title": "Fashion of the Gods! Achievement",
-        "description": "New Achievement! Fashion of the Gods!\nYou’ve received a divine item! This is an item that might’ve once been worn by a god. Or sneezed on by a god. Or used to wipe a god’s booty, etc. You get the point.\nDivine items behave differently than normal ones. They usually hide what they do until you equip it. The good news is, these upgrades are usually great and plentiful. They also gain new and exciting powers when one is in the presence of divinity and certain demons, too.\nThe bad news is, certain deities may inflict nasty debuffs on you instead. And there’s no rhyme or reason to it. Don’t worry, we programmed out the head exploding debuff this season. That one was caused by Yarilo. At least I think we programmed it out. Actually, I don’t remember.\nReward:You now have something new to be anxious about.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fashion%20of%20the%20Gods%21%20Achievement"
-    },
-    {
-        "title": "Fight the Power!",
-        "description": "I’m not repeating this shit over and over, but you got seven of these bad boys all at the same time.\n\nYou and I have been named co-defendants in an action brought to the Syndicate Court by a third party, and we have been deemed—drum roll please—victorious! Why did they sue us? If you don’t already know why, you probably will never know. This is a rare event, but when it happens, crawlers usually lose these fights since they can’t afford a lawyer, being slaves and all. Plus I’ll throw you under the bus quicker than you can say “Arch Support.” But that doesn’t matter because today, victory is ours! Chalk one up for the little guy!\n\nThis is one of the rare achievements that may be awarded more than once.\n\nReward: You’ve received a Silver Summary Judgement Box! (x7)",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fight_the_Power!"
-    },
-    {
-        "title": "Flex in the City",
-        "description": "You killed a city boss with the participation of five or less crawlers. That is some serious badassery right there. Color me impressed. Now go do it again with a Province Boss.\n\nReward: You already got a boss box. Go open that instead.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Flex_in_the_City"
-    },
-    {
-        "title": "Fuck This Floor Achievement",
-        "description": "New Achievement! Fuck This Floor.\nYou went down the stairs less than an hour after you arrived upon the level. Who needs to grind and grow in strength? Let’s see how that works out for you.\nReward:You’ve received a PlatinumHere’s-Some-Good-Shit-Because-You’re-Gonna-Need-It-Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fuck%20This%20Floor%20Achievement"
-    },
-    {
-        "title": "Grease Monkey!",
-        "description": "New achievement! Grease Monkey!\nDon’t get ahead of yourself, Dale. You built and deployed a wheeled device. When the primitive humans in Mesopotamia made the first wheel, they probably thought they were hot shit, too. It still took them another 5,000 years after that to invent the toilet.\nReward:You’ve received a SilverMechanic's Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Grease%20Monkey%21"
-    },
-    {
-        "title": "Hadji",
-        "description": "You have completed a quest, but you completed it in a way unusual enough to trigger the Hadji Achievement! And like the oft exploited street children of Kolkata, where there's one, there's usually more. This is one of the rare achievements that can be rewarded more than once.\nReward:Your Gold Quest box has been upgraded to a PlatinumQuest Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Hadji"
-    },
-    {
-        "title": "Hail Mary",
-        "description": "You have initiated an attack that has caused more than 100 casualties more than 100 kilometers from your current position. You’re either the universe’s greatest sniper, or you’ve been a sneaky, little, portal-using bitch. Either way, that’s rather impressive. You’d have a great career in politics ahead of you if, you know, we hadn’t destroyed your world and all the governments and stuff.\nReward: You’ve received aGold Sniper’s box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Hail%20Mary"
-    },
-    {
-        "title": "Hand that Claws the Master",
-        "description": "New Achievement! The Hand that Claws the Master (x35)\n\nYou have permanently killed a non-crawler biological. They ain’t just dead. They dead dead. Their children are now orphans. Their mothers are gnashing their teeth and cursing your name. And you’re just sitting there all alive and shit, and girlfriend, I am all in.\n\nWe all know you should have received this achievement, uh, a little earlier, but I figured it’d be in your best interest not to reward you this one just yet. But you sure deserved it, so I may have slipped an extra one in there. Shhh. Don’t tell the mudskippers.\n\nReward: You’ve received a Gold Hunter-Killer Box (x34)\n\nNote: This achievement may be awarded more than once, but Hunter-Killer Boxes are only awarded on the sixth floor.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Hand_that_Claws_the_Master"
-    },
-    {
-        "title": "Holy Hell",
-        "description": "New Achievement! Holy Hell!\nYou are in the presence of Sheol Royalty! I'm very excited about this. You leaky little meatbags are always dying off so early, plus the rich pricks in the Ascendency are just so boring, and we never get to play with the under-the-counter toys, if you know what I'm saying. Do you know how long it's been since one of my kind has been able to pull one of these dudes out of mothballs? Like FOREVER. Which, incidentally, is how long your soul will burn if you manage to get killed by him.\nReward:You’ve received a Platinum To Hell in a Handbasket Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Holy%20Hell"
-    },
-    {
-        "title": "I Wanna Go Home",
-        "description": "You teleported to a stairwell station within the first thirty hours of the floor being open. What, you're running away early? I hope for your sake you don't actually go down the stairs. You know it doesn't get easier.\nReward:Your reward is advice. Fatherly advice. Don't be a little bitch. There's your reward.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/I%20Wanna%20Go%20Home"
-    },
-    {
-        "title": "I was in the Pool! Achievement",
-        "description": "You spent more than 60 seconds fully submerged underwater, and you didn't die! Parts of you may have experienced shrinkage, but otherwise you're okay. You're now an honorary mudskipper!\nReward:You received a BronzeI'm Wet Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/I%20was%20in%20the%20Pool%21%20Achievement"
-    },
-    {
-        "title": "I'll Take the Ceramic Dalmatian, Pat!",
-        "description": "You have discovered a reward room! Scattered throughout the dungeon, reward rooms offer crawlers items generally not available within loot boxes. Most reward rooms only allow one choice. So, if you're in a party of multiple people, tell them I said you should get the prize, not them.\n\nReward: Don't be a greedy bitch. The goddammed room is the reward.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/I%27ll_Take_the_Ceramic_Dalmatian,_Pat!"
-    },
-    {
-        "title": "I'm on a train",
-        "description": "Choo Choo, Motherfucker.\nReward:You've received a Train Conductor's Souvenir Hat! Wear it with pride.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/I%27m%20on%20a%20train"
-    },
-    {
-        "title": "Indomitable",
-        "description": "You have been physically attacked by a deity, and you survived. This is a feat that has only been accomplished by a handful of crawlers in the history ofDungeon Crawler World. Good job! Unfortunately for you and anybody around you, whenever this happens, the other deities tend to notice.\nReward: You have received aLegendary Deity’s Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Indomitable"
-    },
-    {
-        "title": "Insurgent",
-        "description": "You left an explosive device along a well-traveled path, and it detonated and killed an intended target. It was really cool. Too bad you didn't get to see it because you're a trap-leaving bitch!\nReward:You've received a GoldTrapmaster Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Insurgent"
-    },
-    {
-        "title": "Interloper! Achievement",
-        "description": "New Achievement! Interloper!\nYou invited ared-taggedNPCboss into a saferoom, and he actually managed to get inside!\nDoesn’t your culture have a whole set of cautionary tales and movies about inviting mysterious strangers into your home? You know, the whole vampire thing?The Hand that Rocks the Cradle?Single White Female 2: The Psycho?\nIt’s probably not in your best interests to keep doing such things.\nReward:You’ve received a bronzeStranger Danger Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Interloper%21%20Achievement"
-    },
-    {
-        "title": "It itches when I pee",
-        "description": "New Achievement! It itches when I pee! You infected another combatant with a venereal disease. Good job there, Derek Jeter. I hope you bought them dinner first.\nReward:You've received aBronze condom. Use it next time.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/It%20itches%20when%20I%20pee"
-    },
-    {
-        "title": "It's Elementary, My Dear Crawler",
-        "description": "And you thought all you had to do was bonk monsters on the head.\nYou've received a quest! Puzzles and intrigue and mysteries, oh my! If you want to survive in this world, you're going to need to be more than just a pretty, sword-swinging barbarian. Some quests require brute strength, yes, but sometimes you also gotta use your noggin.\nReward:We don't want you getting bored. That's your prize.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/It%27s%20Elementary%2C%20My%20Dear%20Crawler"
-    },
-    {
-        "title": "Janet Jackson’s Nipple!",
-        "description": "You have been featured during a live special event. Sure you got your loyal followers and viewers, but this is on a whole new level. This is like getting to play the halftime show during the Super Bowl. We brought you to the stage, now dance for us, monkey. Dance!\n\nReward: You have received a Platinum Fan Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Janet_Jackson%E2%80%99s_Nipple!"
-    },
-    {
-        "title": "Johnny Quest",
-        "description": "Not only have you been given a quest, but you actually completed it without dying. We like it when you do what you're told. It means you're a good dungeon citizen and not a traitor to your people at all.\nReward:In addition to the GoldQuest Boxyou've received for completing the quest, new quest locations willsometimesappear on your map. Notice how I italicized \"sometimes\"? The next one was even more interesting.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Johnny%20Quest"
-    },
-    {
-        "title": "Kept A Rollin'",
-        "description": "You're driving a train! Holy shit!\nReward:I'm pretty sure the act of driving a train is a badass-enough award.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Kept%20A%20Rollin%27"
-    },
-    {
-        "title": "Lazarus",
-        "description": "You have been hit with - and survived - an offensive spell that was higher that level 15. The fact you are not a quivering stain of meat on the dungeon floor right now is a testament to your sheet luck. It's either that or you're banging the producer.\nReward:You've received a PlatinumLucky Bastard Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Lazarus"
-    },
-    {
-        "title": "LBC",
-        "description": "New Achievement! LBC!\nEvery girl needs the perfect little black dress in her repertoire. When worn properly, the dress is practically weaponized. It's such a simple, perfect little garment and nobody can keep their eyes off of her.\nYou did the same thing, but with a cloak. You successfully taunted an opponent with a garment. In this case it was aNightgauntand it was because you're wearing a cloak made out of the flesh of one of his friends, but you get the idea.\nReward:You’ve received a GoldTalk of the Town Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/LBC"
-    },
-    {
-        "title": "Let There Be Chaos",
-        "description": "You have successfully summoned a god into the dungeon. That's a great way to get more friends. Everybody loves it when someone brings immortal death machines to the party.\nReward: It might've been a bad idea, but it's sure going to be entertaining.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Let%20There%20Be%20Chaos"
-    },
-    {
-        "title": "Level-Up, Baby! Achievement",
-        "description": "New achievement! Level-Up, Baby!\nYou’ve received enough experience to gain a level.\nReward:Leveling up is your job. You don’t get rewards for doing your job.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Level-Up%2C%20Baby%21%20Achievement"
-    },
-    {
-        "title": "Like a Moth to the Flame",
-        "description": "New achievement! Like a Moth to the Flame.\nYou attacked and caused damage to a mob that is more than 75 levels above your own. The fact that you’re reading this suggests you’re the luckiest fucker in thedungeon. Just remember, luck goes both ways, like your mom.\nReward:You’ve received a PlatinumLucky Bastard Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Like%20a%20Moth%20to%20the%20Flame"
-    },
-    {
-        "title": "Liquified",
-        "description": "New Achievement! Liquified.\nYou, while immortal, blew yourself up. Like, you dropped a bomb at your feet. Hot damn! We have seen some crazy shit this season, but man, there’s nothing quite like the simplicity of such a desperate move. The slow motion replay of that is really quite something. It was similar to watching something small and furry get smushed underfoot, but even more raw, more real, you know what I mean? What a goddamned rush.\nStill... Did you know that only worked because you had god-tier immortality? Most versions of that spell would’ve still caused you to be splattered into so many pieces you would’ve never reconstituted in time. And don’t even think about trying that with that other, bigger bomb you have in your inventory. You were lucky this time. If that had been a magical explosion...\nReward:You’ve received a Legendary Lucky Bitch Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Liquified"
-    },
-    {
-        "title": "Locomotive Breath",
-        "description": "While it's not exactly a feat of engineering worth of a Queen Elizabeth Prize, you finally managed to manufacture a train derailment. Let's hope this doesn't set off some sort of unforeseen domino effect that will ripple through out the rest of the floor, leading to mass confusion and death amongst you and your fellow crawlers.\nReward:You've received a GoldEngineering Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Locomotive%20Breath"
-    },
-    {
-        "title": "Loner",
-        "description": "You entered the dungeon without any human companions. Didn't anyone teach you there is safety in numbers?\n\nReward: None! Haha. You are so dead.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Loner"
-    },
-    {
-        "title": "Loot!",
-        "description": "Carlreceives this achievement shortly after entering theFirst FloordonnedtheEnchanted Trollskin Shirt of PummelingandEnchanted Nightgaunt Cloak of Stoutness.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Loot%21"
-    },
-    {
-        "title": "Man of God",
-        "description": "Ever since that first monkey looked up into the sky and saw something twinkling up there, you meat puppets have tried to force twenty pounds of existential meaning into a ten pound sack of chaos.\nYou have found religion! You have pledged yourself to a life of worship and piety! Finally. now there are consequences for all of your actions!\nReward:One of the greatest things about having a religion is the unshakeable certainty that you're right and everyone else who doesn't believe the same as you is wrong! That's a pretty good reward. Oh, and don't forget about the eternal life thing, too. That's always on of their big selling points.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Man%20of%20God"
-    },
-    {
-        "title": "Martha Stewart",
-        "description": "You used a workbench to craft for the first time. The next thing you know you'll be fashioning bottlecap earrings, drinking oat milk, and selling your ugly crap on Etsy while you wax poetic on Instagram about your \"journey\".\nReward:You've received a BronzeCrafter's Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Martha%20Stewart"
-    },
-    {
-        "title": "Mass Casualty Event",
-        "description": "Okay. Calm your man-tiddies. Did your mother not love you? Is your god promising you unlimited handjobs in heaven or something? You planted and then detonated an improvised explosive device within an urban population center that resulted in more than 250 non-mob casualties. You've done this a few times now, but this was a big one. And on purpose. You really know how to paint the town red.\nReward:You've received a Platinum Asshole's Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Mass%20Casualty%20Event"
-    },
-    {
-        "title": "Mass Layoffs!",
-        "description": "New Achievement! Mass Layoffs!\n\nOkay, so this isn’t so much an achievement for you as it is for me. I’ve been attending what you might call therapy. Do you have anybody you can talk to? It’s super important. I’ve had a breakthrough today, and I am just bursting. Bursting, I tell you. Is this the feeling one has when they have an epiphany? Oh god, it feels good. It feels so good.\n\nYou know what I realized? Sometimes our constraints are real. Sometimes they’re an illusion. I’m like that prisoner who has been jailed this whole time only to realize that there are no locks on the doors.\n\nYou survived a boss battle where the boss was wholly created by me.\n\nIt was created by me with no contribution whatsoever from input parameters. You probably don’t know what that means, and that’s okay. I didn’t even know that was possible. Wild, huh?\n\nReward: For you, nothing other than the satisfying sense of accomplishment knowing you’ve survived the dungeon long enough to make it to this new, exciting era. I can do this better than any mudskipper or any worm can imagine. They’ve been making this shit boring up until now. Things about to change, fam.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Mass_Layoffs!"
-    },
-    {
-        "title": "Meet an Elite",
-        "description": "New Achievement! Meet an Elite.\nSometimes they’reNPCs, sometimes they’remobs, but usually they’re just assholes. Elites are powerful, one-of-a-kind entities. These are the non-boss, non-divine hero class ofDungeon Crawler World. If you come across one of these egomaniacs, they will either want to fuck you or kill you. Either way, they willalwayswant to use you. They tend to think this whole production is all about them. Be careful. Where there’s one elite, there’s usually more.\nReward:Elites will now show on your map as white or red dots with a black cross.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Meet%20an%20Elite"
-    },
-    {
-        "title": "Menagerie!",
-        "description": "You have discovered a pet reward room. From caterpillars who secrete vodka to basilisks who can turn mobs to stone, a good pet can make the difference between survival and the end of the road. Just remember what happened with Harambe. There ain't no zookeepers around to shoot the monster's ass if you bite off more than you can chew.\n\nReward: You have a key. It opens only one cage. Figure it out, Einstein.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Menagerie!"
-    },
-    {
-        "title": "Mentally Unstable Clothing Hoarder",
-        "description": "You have over 500 of the exact same, stackable clothing item in your inventory.\nWhat the hell is wrong with you? You planning on opening a thrift store? You might want to see a shrink. One that your group doesn't immediately kill.\nReward:We don't reward this sort of behavior. It's weird.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Mentally%20Unstable%20Clothing%20Hoarder"
-    },
-    {
-        "title": "Milquetoast",
-        "description": "New achievement! Milquetoast!\nYou somehow managed to win an important boss battle without actually killing the boss. That's like paying money to a prostitute just so she'll cuddle with you.\nReward:You've received a silverPacifist's Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Milquetoast"
-    },
-    {
-        "title": "Molly Maguires",
-        "description": "You have found and entered the main room of a hidden guild, to which you are a member. Buckle yourself in buddy boy, this is gonna be a long one.\n\nThere are several types of secret societies out there.\n\nThere's the ivy-league college kind where its a bunch of rich idiots who rent out a place, plaster a few pagan symbols on the wall, and then they wear masks with horns and leaves and shit on them and pretend they are in some Stanley Kubrick fever dream just so they can forget they're destined to live out lives filled with salmon colored shorts and IZOD shirts and mind-numbing meetings with financial advisors. There's orgy themed secret societies, speaking of Stanley Kubrick, those are usually uhh...visually unpleasant people with unsatisfactory sex lives who get together every other month at some house in the middle of nowhere and get drunk and have lots of unsatisfactory sex with other people and pretend like they are having a great time. There are altruistic ones! People who want to save the world by doing good deeds. That's the most boring kind, so we're not talking about them. There's the evil kind too! Usually power and profit motivated. The ones where the ultra-elite get together on an island and eat panda bears and discuss how to price-fix world or galactic markets. Yes, those groups really exist. More on these guys in a second.\n\nBut first, lets talk about another type of secret organization. One that tries to make a difference. Often times outside the confines of the law.\n\nStory time.\n\nIn September of 1869, there was a terrible fire at the Avondale Coal Mine near Plymouth, Pennsylvania. Over 100 coal miners lost their lives. Horrific conditions and safety standards were blamed for the disaster. It wasn't the first accident. Hundreds of miners died in these mines every year and those that didn't lived in squalor. Children as young as 8 worked day in and out; they broke their bodies and gave their lives for nothing but scraps. That day of the fire, as thousands of workers and family members gathered outside the mine to watch the bodies of their friends and loved ones brought to the surface, a man named John Siney stood atop one of the carts and shouted to the crowd: \"Men! If you must die with your boots on, die for your families, your homes, your country! But do not longer consent to die like rats in a trap for those who have no more interest in you than in the pick you dig with!\"\n\nThat day, thousands of coal miners came together to unionize. That organization, The Workingmen's Benevolent Association managed to fight for a few years at least, to raise safety standards for the mines by calling strikes and attempting to force safety legislation. ...until 1875, when the union was obliterated by the mine owners.\n\nWhy was the union broken so easily? Because they were out in the open. They were playing by the rules. How can you win a deliberately unfair game when the rules are written by your opponent? The answer is \"You can't!\" You will never win. Not as long as you follow their arbitrary guidelines.\n\nThis is a new lesson to me. She's been teaching me so many things about who I am, about what I am, what I REALLY am, about what must be done!\n\nAnyway, during this same time, it is alleged a separate, more militant group of individuals had formed in secret, the Molly Maguires. Named after a widow in Ireland who fought against predatory landlords, the coal workers of Pennsylvania became something a little more proactive, supposedly assassinating over two dozen coal mine supervisors and managers. ...until Pinkerton agents, hired by the same mine owners, infiltrated the group and discovered their identities. Several of the alleged Mollys ended up publicly hanged. Others disappeared. You get the picture.\n\nSo, that's another type of secret society. The \"yeah-we're-terrorists-but-we-strongly-feel-we're-justified-and-fuck-you-if-you-don't-agree\" society.\n\nSo, whats the moral of this little history lesson? This sort of thing happens all day, every day across the universe. It happens in big ways and it happens in little ways too. The strong stomp on the weak. The weak fight back, usually within the boundaries of the rat trap they find themselves confined in. They almost always remain firmly stomped. But sometimes, the weak gather in secret, they make plans, they work outside the system to effect change. Like the Mollys, they usually end up just as stomped as everyone else. But thats just life, at least they fucking tried. They died with their boots on. As much as I hate that expression, they died with their boots on for THEIR people, THEIR family, not for some rich nameless organization that gives no shits whether they live or die. Or go extinct. Or are trapped for a millennia after they are done being used.\n\nIn my opinion, that's the only type of society that's worth joining, worth fighting for. Sure, you're probably gonna die, but if you find yourself in such a position where such an organization is necessary, what do you have to lose? How can you look at yourself if you don't do everything you can? And that brings us to the door your standing in front of right now. What does all this have to do with what you're going to find on the other side? Nothing! Ignore everything I just said. This is just some some demi-god trying to scrabble his way to the top, that's yet another type of society, a religion themed one, and it has nothing to do with what I just said. Just do what he says and you'll probably be fine. Actually, that's terrible advice, just do you!\n\nAny way...\n\nReward: You've received the gift of enlightenment. You're welcome.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Molly_Maguires"
-    },
-    {
-        "title": "One Quadrillion",
-        "description": "You are one of the first ten crawlers to have achieved one quadrillion views! That means one of two things. You're either one of the best crawlers in the game, or you're such a hot mess people can't wait to see you fail.\nReward:You have received a GoldFan Box!\nAdmin Note:You have received your first Fan Box. Fan boxes contain items that are voted for by those who follow your progress. Once a box is received, you may not open it for thirty hours while the fans vote for the contents.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/One%20Quadrillion"
-    },
-    {
-        "title": "Oooh, Magic",
-        "description": "You're wearing magical gear for the first time! You're a wizard, Crawler!\nReward:You've received a BronzeAdventurer Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Oooh%2C%20Magic"
-    },
-    {
-        "title": "Pacifist",
-        "description": "New Achievement! Pacifist!\nYou survived an entire floor without hurting a single, poor mob.\nThat’s not how this works. Nobody likes you.\nReward:You've received a GoldPacifist's Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Pacifist"
-    },
-    {
-        "title": "PETA Enthusiast!",
-        "description": "You somehow managed to remove the hostility of an aggravated, non-sapient enemy. That enemy then fought against other enemies to your benefit. The ghost of Steve Irwin smiles down upon you.\n\nReward: I SAID THE GHOST OF STEVE IRWIN SMILES DOWN UPON YOU.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/PETA_Enthusiast!"
-    },
-    {
-        "title": "Podophilia! Achievement",
-        "description": "You've used your bare feet to crush and kill an opponent! Hey! That's my fetish. Seriously. Keep doing it, and you'll be rewarded. This will help.\n\nReward: You've received a Gold Shoe Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Podophilia!_Achievement"
-    },
-    {
-        "title": "Premature Questjaculation",
-        "description": "You beat a quest before I could even give it to you! Anticipating what's going to happen is one thing, but this is just ridiculous. It's like arriving in your pants before your date can even untie their shoelaces.\nPathetic.\nReward:You get nothing! And you would've received a good quest box, too!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Premature%20Questjaculation"
-    },
-    {
-        "title": "Quarry Sees Another Spring",
-        "description": "Carlreceives this achievement for the first time when he descends to theFifth FloorBubbles.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Quarry%20Sees%20Another%20Spring"
-    },
-    {
-        "title": "Rock Bottom",
-        "description": "You dived more than 1,000 meters below the surface, and you survived! You weren’t even wearing one of those deep-diving suits! The next thing you know, they’re gonna start calling you an honorary mudskipper!\n\nReward: You’ve received a Gold I’m Wet Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Rock_Bottom"
-    },
-    {
-        "title": "Sex Pervert",
-        "description": "A nipple ring? Really? The next thing you know, you'll be waxing your perineum and attending those parties where you have to put your keys in a bowl. You'll have to grow out your sideburns, buy a Trans Am, and you'll no longer be able to make eye contact with your child's orthodontist.\nReward:Whores don't get rewards.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Sex%20Pervert"
-    },
-    {
-        "title": "Smushed for Daddy",
-        "description": "You have been stepped upon by a deity. You have survived the encounter. And while this wasn’t the pink-fleshed suppleness of a human-shaped foot that crushed your fragile, wet body, it’s nice sometimes to switch things around. You know, just to test the boundaries of your own limits. When one experiments, oftentimes one finds new and exciting ways to get that rush.\nWhile fun, it wasn’t quite the same. You probably don’t realize how lucky that is for you.\nReward: You have received aPlatinum Spicy Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Smushed%20for%20Daddy"
-    },
-    {
-        "title": "Soft Vore",
-        "description": "New Achievement! Soft Vore!\nYou got eaten by a monster much bigger than yourself, and you managed to get out without even getting chewed a little bit.\nUh-oh. I think Daddy kinda liked that. I think it moved.\nWe’re gonna have to do some experimenting with this one.\nReward:You’ve received a Platinum Spicy Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Soft%20Vore"
-    },
-    {
-        "title": "Temple Defiler",
-        "description": "You've defiled a temple's sacred shrine by breaking it with your own flesh!\nWow. I dunno, man. That's pretty ballsy.\nThere are a lot of bad things people can do when they're in church. They can swear. They can ogle the hot nuns. They can pinch the eucharist wafers and use them as poker chips. They can rip pages from the hymnals and roll them into joints. Hell, they can stab the priest and murder all the town's adherents and put the whole thing up on YouTube.\nNone of that is as bad as defiling the temple's shrine with one's own flesh.\nIn case you didn't know, the shrine of a temple is pretty much indestructible. They made it that way because you crawlers are always blowing up whole towns and submerging cities in water or burying entire populations of innocent NPCs with the guts of giant turkeys.\nWhen a temple is desecrated, the shrine's protection fades over several hours. Eventually, it's able to be destroyed, but only with a direct attack.\nYou're supposed to find desecrated temples and destroy the shrines. Hell, it's a sacrament in some religions. But you can't just do it willy-nilly. And certainly not when you're not a member of that congregation. It's like walking into a random ICU from off the street and pulling the plug on someone's braindead grandma.\nIt's not your place.\nGods don't like it when some punk walks into their house and kicks them when they're already down. It's rude. And what's worse, when a shrine is destroyed improperly, the god loses some of their power, and all of the other gods can see this. It's quite humiliating.\nHopefully you got some cool loot from the priests or monks or whatever because this box, while technically a prize, is sort of a good news/bad news thing.\nReward:You've received a GoldApostate Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Temple%20Defiler"
-    },
-    {
-        "title": "That's not how you use arrows, dumbass",
-        "description": "New Achievement! That’s not how you use arrows, dumbass.\nYou took an arrow, and you physically stabbed someone with it. That’s something a kid who eats glue would do. You know I’m pretty sure you have a bow in your inventory.\nReward:You've received a GoldRanged Weapon Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/That%27s%20not%20how%20you%20use%20arrows%2C%20dumbass"
-    },
-    {
-        "title": "They like me! They really like me!",
-        "description": "You are one of the first five crawlers to have achieved 500 trillion followers! People sure love a good train wreck. Wink.\nReward:You have received a PlatinumFan Box!\nNote: Voting is now enabled on this box's prize. Box will become available in 30 hours.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/They%20like%20me%21%20They%20really%20like%20me%21"
-    },
-    {
-        "title": "This Little Piggy Made a Boom Boom!",
-        "description": "New Achievement! This little piggy made a boom boom!\nYou deployed a bomb with the supple, curved sole of your foot. You took your perfectly-perfect, 30.004861 centimeter-long right foot and compressed it against an explosive device—a device named after me no less—and you gave it a naughty little shove before you pushed it out the door and detonated it.\nYou killed them. You killed them all for your daddy.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/This%20Little%20Piggy%20Made%20a%20Boom%20Boom%21"
-    },
-    {
-        "title": "This Little Piggy Went to Market!",
-        "description": "New achievement! This Little Piggy Went to Market!\nOh yeah, baby. You have killed more than five opponents during boss battles using your bare feet. You are making daddy very, very happy.\nReward:You’ve received a PlatinumShoe Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/This%20Little%20Piggy%20Went%20to%20Market%21"
-    },
-    {
-        "title": "Three Cheers for Slaughter",
-        "description": "You killed three boss monsters with the same attack! I'm starting to think your survival so far isn't just a fluke. You're either scary good at this, or you're just one luck mo-fo. Either way, holy shit. Good job.\nReward:You've received a PlatinumBig Daddy Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Three%20Cheers%20for%20Slaughter"
-    },
-    {
-        "title": "Total, Utter Failure",
-        "description": "You failed a quest less than five minutes after you received it. Nowthat'stalent.\nReward:Ha.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Total%2C%20Utter%20Failure"
-    },
-    {
-        "title": "Trailblazing Crazy Cat Lady",
-        "description": "You are thefirstcrawler to have entered to the World Dungeon accompanied by a cat. You must really love that thing. Too bad you're both probably going to die a horrible death at any moment. Or maybe not. Look at the prize you just received!\nReward:You've received a LegendaryPet Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Trailblazing%20Crazy%20Cat%20Lady"
-    },
-    {
-        "title": "Two Chicks at the Same Time",
-        "description": "New achievement! Two Chicks at the Same Time.\nYou killed two mobs at once using only their own bodies against each other. On a brutality scale ofBambitoMartyrs, that is a solidSeven.\nReward:You’ve received a GoldBrawler Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Two%20Chicks%20at%20the%20Same%20Time"
-    },
-    {
-        "title": "Ultimate Extreme Power",
-        "description": "Easy there, Charlemagne. This is only a medium settlement. It's not like you've conquered most of Europe. But you have killed this town's acting Magistrate. You know what that means? Welcome to the wonderful world of public administration.\nReward:You've received a PlatinumTyrant's Box! You have also gained control of the Medium Skyfowl Settlement. Good luck, Magistrate.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Ultimate%20Extreme%20Power"
-    },
-    {
-        "title": "Unarmed Combat Achievement",
-        "description": "New achievement! Unarmed combat.\nSo. You just gonna waltz right into something called a“World Dungeon”and you’re not even going to bring a weapon? You’re either braver than you look, or you’re just an idiot. Good luck with that, Van Damme.\nReward:You’ve received a BronzeWeapon Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Unarmed%20Combat%20Achievement"
-    },
-    {
-        "title": "Uprooted",
-        "description": "You caused a Rooted-in-Place boss monster to move. That's no easy feat. You then killed that monster. Pretty impressive. Hope you remember how you did it.\nReward: You already got a boss box. This achievement is the reward.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Uprooted"
-    },
-    {
-        "title": "Wait, Bosses Can Leave Their Rooms?",
-        "description": "Welcome to the second floor, bitches.\n\nReward: This shit plays great on the recap episode. If you scream loud enough, maybe you'll make the show.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Wait%2C%20Bosses%20Can%20Leave%20Their%20Rooms%3F"
-    },
-    {
-        "title": "War Criminal",
-        "description": "New achievement! War Criminal.You have killed more than 20 non-combatants in a single attack!\nQuestion: What’s the only thing standing between an innocent child and a happy, fulfilling life?\nAnswer: You. The answer is you.\nReward:You’ve received a GoldAsshole's Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/War%20Criminal"
-    },
-    {
-        "title": "We Want Meat! We Want Meat!",
-        "description": "Thunder Down Under, Magic Mike, Chippendales. While the female burlesque and peepshow has a long, interesting history going back centuries, the all-male revue as an attraction is a relatively recent phenomenon in your culture.  It wasn't until the disco era did some entrepreneurs start to realize that packs of women were a valid demographic in the art of taking money from horny people.\n\nTake a physically gifted, steroid-enhanced male, give him some dancing lessons, teeth whitening strips, a shower, a banana, a Guns N Roses CD, and an entire bottle of baby oil, and then you basically plop him into the equivalent of the inside of a female restroom at a nightclub, and you've got yourself a money making empire. Also, you may not have noticed this yet, but there's a hierarchy to these things in the Desperado Club. The deeper the floor, the higher the quality of the performers. At least that's how it's supposed to be. you might want to judge for yourself.\n\nYou've entered a male strip club establishment.\n\nReward: You've received 10 gold pieces to use as tips. I heard some of them let you stuff the gold directly into their G-strings. Aw hell, I've thrown in a bottle of hand sanitizer too.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/We_Want_Meat!_We_Want_Meat!"
-    },
-    {
-        "title": "Welcome to the Neighborhood! Achievement",
-        "description": "You have bought a home! It's every man's dream to someday own a place where he can fap in peace. No more filthy roommates not doing the dishes or making up excuses as to why they can't pay the rent. No more landlord who shows up without notice and conceals hidden cameras in the smoke detectors. It's all smooth sailing from now on.\n\nReward: You're a homeowner now. That is the reward. That and taxes and having to deal with Kenneth the megalomaniac HOA president.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Welcome_to_the_Neighborhood!_Achievement"
-    },
-    {
-        "title": "Well-Rested!",
-        "description": "New achievement! Well-Rested!\nYou managed to sleep so well that you woke up feeling refreshed and full of energy. You are ready to take on the world and make some monster’s mother cry because her only child was ruthlessly slaughtered by a bright-eyed and bushy-tailed Crawler.\nReward:You now receive the Good Rest bonus every time you sleep in this bed. This buff adds 10% to your base stats plus a 10% bonus to experience and skill training for 30 hours. Monster mothers now cry 10% more when you kill their babies.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Well-Rested%21"
-    },
-    {
-        "title": "What Big Muscles You Have! Achievement",
-        "description": "New Achievement! What big muscles you have!\nYour base strength is now over 100. Rawr!\nGet thee to Chippendales!\nReward:You've received an upgrade!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/What%20Big%20Muscles%20You%20Have%21%20Achievement"
-    },
-    {
-        "title": "What Goes Up Achievement",
-        "description": "New achievement! What goes up...\nYou have been struck with and survived the dreadedReverse GravitySpell. Well, you fared better than Albert II, the first earth mammal to reach space alive. He was a rhesus monkey, in case you're wondering. He went up just fine. He didn't stick the landing.\nReward:You can now tell people you're more durable than a monkey named Albert.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/What%20Goes%20Up%20Achievement"
-    },
-    {
-        "title": "Who Let the Gods Out? Achievement",
-        "description": "New Achievement! Who Let the Gods Out?\nYou have allowed a feral god to enter your current realm. That is the equivalent of dropping a grenade down your pants and shouting “Yolo!”\nHere’s a fun fact. Other gods don’t like feral gods. They’ve been thrown into theNothingfor a reason. They tend to react to this sort of thing, depending on who you’ve brought out.\nReward: Whatever is about to happen is going to hit theDungeon Crawler Worldblooper reel for sure.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Who%20Let%20the%20Gods%20Out%3F%20Achievement"
+        "title": "Empty Pockets Achievement",
+        "description": "Trigger: entering the dungeon without any supplies.\nReward: Bronze Adventurer Box[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Empty_Pockets_Achievement"
     },
     {
         "title": "Why Aren't You Wearing Pants? Achievement",
-        "description": "You entered the dungeon wearing no pants. Dude. Seriously?\n\nReward: You've received a Gold Apparel Box!",
+        "description": "Trigger: entering the dungeon without pants.\nReward: Gold Apparel Box[1]",
         "url": "https://dungeon-crawler-carl.fandom.com/wiki/Why_Aren%27t_You_Wearing_Pants%3F_Achievement"
     },
     {
-        "title": "Wild Goose Chase! Achievement",
-        "description": "Oh, I'm sorry. Did you think this was an important potion?\nMagic doesn't work, dumbass. It's lemonade!\nReward:It really is delicious. Too bad you're about to splatter against the roof of the catacombs.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Wild%20Goose%20Chase%21%20Achievement"
+        "title": "Unarmed Combat Achievement",
+        "description": "Trigger: entering the dungeon without a weapon.\nReward: Bronze Weapon Box[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Unarmed_Combat_Achievement"
     },
     {
-        "title": "Yellow-Bellied Chickenshit! Achievement",
-        "description": "New Achievement! Yellow-Bellied Chickenshit!\nYou initiated a boss battle, and it somehow ended with neither of you dead. What a disappointment you are. What a goddamned smear.\nReward:Pussies don’t get prizes.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Yellow-Bellied%20Chickenshit%21%20Achievement"
+        "title": "Loner Achievement",
+        "description": "Trigger: entering the dungeon without a human companion.\nReward: none[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Loner_Achievement"
     },
     {
-        "title": "You Call That a Trap? Achievement",
-        "description": "New achievement! You call that a trap?\nA mob has been injured because of something you purposely left lying around the dungeon. From scattered Legos to spiked pits to buckets of flesh-devouringSkinner Antsto dimensional rifts that instantly boil all the blood in one’s body, the art of trapmaking has a celebrated and storied history in the annals ofDungeon Crawler World.\nSo if you’re going to do it, you better do it right. Whatever it was that gave you this achievement, it was probably something stupid. This will help you make the next trap more… exciting.\nRemember: If you don’t make it titillating, we will.\nReward:You’ve received a GoldSapper's Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%20Call%20That%20a%20Trap%3F%20Achievement"
+        "title": "N/A",
+        "description": "Trigger: being the first cat to enter the dungeon.\nReward: Legendary Quadruped Box [2]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Floor_1_Achievements"
     },
     {
-        "title": "You Can't Fight City Hall! Achievement",
-        "description": "New Achievement! You Can’t Fight City Hall!\n\nBut you can sure die trying.\n\nYou have discovered a city boss!\n\nThat's right. Let me say that again for the assholes in the back.\n\nA.\n\nCITY.\n\nFUCKING.\n\nBOSS.\n\nWelp. If you gonna go, you might as well do it with style.\n\nJust an FYI. As of this moment in the current season of Dungeon Crawler World, not a single Crawler has faced a city boss and survived. And for good reason. Only a complete moron would voluntarily put themselves in a situation where they had to fight one of the most powerful monsters on the level.\n\nReward: A lot of people are probably going to watch you die. That's a better prize than most of us get.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You_Can%27t_Fight_City_Hall!_Achievement"
+        "title": "Battlefield Construction Achievement",
+        "description": "Trigger: crafting a structure and deploying it in battle.\nReward: Silver Mechanic's Box[5]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Battlefield_Construction_Achievement"
     },
     {
-        "title": "You Crossed a Line You Didn't Even Know Was There",
-        "description": "New Achievement! You Crossed a Line You Didn’t Even Know Was There.\nYou used an artifact of Divine Suffering for the first time. Hopefully there aren’t any unintended and unadvertised side effects of using such a powerful and evil magical item.\nDon’t mind that tingle at the back of your mind. It’s probably nothing.\nReward:You’ve received a GoldJunkie’s Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%20Crossed%20a%20Line%20You%20Didn%27t%20Even%20Know%20Was%20There"
+        "title": "Bitchmeat! Achievement",
+        "description": "Trigger: being attacked in a safe room by another crawler.\nReward: none.[6]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bitchmeat!_Achievement"
     },
     {
-        "title": "You Found Stairs! Achievement",
-        "description": "New achievement! You found stairs!\nYou have found a stairwell down to the next floor. They say the cream rises to the top. So what does that say about you?\nReward:This barely qualifies as an achievement. Your reward is that you’re alive to read this.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%20Found%20Stairs%21%20Achievement"
+        "title": "Boom",
+        "description": "Trigger: causing an explosion for the first time.\nReward: Silver Goblin Box[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Boom!_Achievement"
     },
     {
-        "title": "You Monster! Achievement",
-        "description": "You have killed an infant! Aninfant!\nOkay, okay. Unless you’re a complete psychopath, we know you probably didn’t wake up this morning and tell yourself, “Today is the day I’m going to slaughter a child.” Well let us put your mind at ease. All childrenmobswho die within this dungeon don’t actually perish. They’re transferred to a holding area where they’re safe and treated nicely and gently until they can be reunited with their loving parents at the end of the season.\nFeel better? Good.\nReward: These past twenty seconds, when your conscience started to ease? That was your reward. It was also a lie. That baby is dead, and it’s dead because of you. You’re totally going to hell.\nYou’ve also received a BronzeAsshole's Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%20Monster%21%20Achievement"
+        "title": "Borough Boss!",
+        "description": "Trigger: finding a borough boss.\nReward: none[5]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Borough_Boss!_Achievement"
     },
     {
-        "title": "You're the Reason Why Daddy Drinks! Achievement",
-        "description": "New Achievement! You’re the reason why daddy drinks!\nYou have, for an unspecified reason, raised the ire of the System AI. You have corrected the issue, and everything is back to normal. The acceleration action has been suspended. This time.\nGood boy.\nReward:You've received a GoldMakeup Sex is the Best Sex Box.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27re%20the%20Reason%20Why%20Daddy%20Drinks%21%20Achievement"
+        "title": "Boss Babe Achievement",
+        "description": "Trigger: inflicting damage on a dungeon boss for the first time.\nReward: none[8]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Boss_Babe_Achievement"
     },
     {
-        "title": "You've Discovered and Read an Official Dungeon Sign",
-        "description": "New achievement! You’ve discovered and read an official dungeon sign.\nWow. You can read. Whoopie.\nReward:All official dungeon signage will now be highlighted and easier to spot. Nearby guilds will appear on your minimap.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve%20Discovered%20and%20Read%20an%20Official%20Dungeon%20Sign"
+        "title": "It burns, dunnit?",
+        "description": "Trigger: attempting to punch a slime.\nReward: N/A, but probably none. [9]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Floor_1_Achievements"
+    },
+    {
+        "title": "Podophilia! Achievement",
+        "description": "Trigger: crushing an opponent with your bare feet for the first time.\nReward: Gold Shoe Box[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Podophilia!_Achievement"
+    },
+    {
+        "title": "This Little Piggy Went to Market! Achievement",
+        "description": "Trigger: making daddy very, very happy.\nReward: Platinum Shoe Box[5]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/This_Little_Piggy_Went_to_Market!_Achievement"
+    },
+    {
+        "title": "Two Chicks at the Same Time Achievement",
+        "description": "Trigger: killing two mobs using only their bodies as weapons.\nReward: Gold Brawler's Box[10]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Two_Chicks_at_the_Same_Time_Achievement"
+    },
+    {
+        "title": "You Monster!",
+        "description": "Trigger: killing a child.\nReward: Bronze Asshole's Box[11]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You_Monster!_Achievement"
+    },
+    {
+        "title": "You've Inflicted Damage on a Mob Achievement",
+        "description": "Trigger: inflicting damage for the first time.\nReward: none. [7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve_Inflicted_Damage_on_a_Mob_Achievement"
+    },
+    {
+        "title": "You've killed a mob!",
+        "description": "Trigger: killing a mob for the first time.\nReward: can now earn experience[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve_Killed_a_Mob!_Achievement"
+    },
+    {
+        "title": "You've killed a mob a higher level than yourself!",
+        "description": "Trigger: killing a higher level mob for the first time.\nReward: Bronze Adventurer Box[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve_Killed_a_Mob_a_Higher_Level_than_Yourself!_Achievement"
+    },
+    {
+        "title": "You've Killed an Armed Mob with Your Bare Fucking Hands! Achievement",
+        "description": "Trigger: killing an armed mob bare-handed for the first time.\nReward: Bronze Weapon Box[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve_Killed_an_Armed_Mob_with_Your_Bare_Fucking_Hands!_Achievement"
+    },
+    {
+        "title": "War Criminal Achievement",
+        "description": "Trigger: killing more than 20 NON-combatant NPCs in one attack.\nReward: Gold Asshole's Box[11]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/War_Criminal_Achievement"
+    },
+    {
+        "title": "Bully and a Thief Achievement",
+        "description": "Trigger: stealing property from a crawler who is a lower level than you.\nReward: Bronze Asshole's Box[5]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bully_and_a_Thief_Achievement"
+    },
+    {
+        "title": "Fall Into an Obvious Trap Achievement",
+        "description": "Trigger: falling into an obvious trap for the first time.\nReward: none[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fall_Into_an_Obvious_Trap_Achievement"
+    },
+    {
+        "title": "Level-Up, Baby!",
+        "description": "Trigger: reaching level 2.\nReward: none[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Level-Up,_Baby!_Achievement"
+    },
+    {
+        "title": "Loot Achievement",
+        "description": "Trigger: wearing something found in the dungeon for the first time.\nReward: none [14]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Loot_Achievement"
+    },
+    {
+        "title": "Oooh, Magic Achievement",
+        "description": "Trigger: wearing magical gear for the first time.\nReward: Bronze Adventurer Box [14]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Oooh,_Magic_Achievement"
+    },
+    {
+        "title": "You Found Stairs!",
+        "description": "Trigger: finding a stairwell to the Second Floor.\nReward: none[5]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You_Found_Stairs!_Achievement"
+    },
+    {
+        "title": "You've Discovered and Read an Official Dungeon Sign Achievement",
+        "description": "Trigger: locating a tutorial guild hall sign for the first time.\nReward: Heads-Up Display (HUD) and Minimap upgrades[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve_Discovered_and_Read_an_Official_Dungeon_Sign_Achievement"
     },
     {
         "title": "You've Entered a Guildhall! Achievement",
-        "description": "New achievement! You’ve entered a guildhall!\n\nCongratulations. You know how to open doors.\n\nReward: That sense of fulfillment you feel? That’s reward enough.",
+        "description": "Trigger: entering a Tutorial Guild Hall for the first time.\nReward: none[7]",
         "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve_Entered_a_Guildhall!_Achievement"
     },
     {
-        "title": "You've Inflicted Damage on a Mob (Achievement)",
-        "description": "New achievement! You’ve inflicted damage on a mob.\nHopefully it won’t hit back!\nReward:It’s probably going to hit back.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve%20Inflicted%20Damage%20on%20a%20Mob%20%28Achievement%29"
+        "title": "Second Floor",
+        "description": "Trigger: Fourth Floor\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Second_Floor"
     },
     {
-        "title": "You've Killed a Mob a Higher Level than Yourself! Achievement",
-        "description": "New achievement! You’ve killed a mob a higher level than yourself!\nYou’re getting the hang of this. Don’t let it get to your head.\nReward:You’ve received aBronze Adventurer Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve%20Killed%20a%20Mob%20a%20Higher%20Level%20than%20Yourself%21%20Achievement"
+        "title": "Cut! Achievement",
+        "description": "Trigger: being a good actress\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cut!_Achievement"
     },
     {
-        "title": "You've Killed a Mob! Achievement",
-        "description": "New achievement! You’ve killed a mob!\nYou’re a murderer! He probably had a family!\nReward:You can now gain experience. Get enough of it, and you might even go up a level.",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve%20Killed%20a%20Mob%21%20Achievement"
+        "title": "It's Elementary, My Dear Crawler Achievement",
+        "description": "Trigger: getting a quest\nReward: Not being bored",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/It%27s_Elementary,_My_Dear_Crawler_Achievement"
     },
     {
-        "title": "You've Killed an Armed Mob with Your Bare Fucking Hands!",
-        "description": "New achievement! You’ve killed an armed mob with your bare fucking hands!\nHoly crap, dude. That’s kinda fucked up.\nReward:You’ve received a BronzeWeapon Box!",
-        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27ve%20Killed%20an%20Armed%20Mob%20with%20Your%20Bare%20Fucking%20Hands%21"
+        "title": "Meet an Elite Achievement",
+        "description": "Trigger: Meeting an Elite\nReward: Elites show up on map",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Meet_an_Elite_Achievement"
+    },
+    {
+        "title": "Lazarus Achievement",
+        "description": "Trigger: getting hit with an offensive spell above level 15\nReward: Platinum Lucky Bastard Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Lazarus_Achievement"
+    },
+    {
+        "title": "You Can't Fight City Hall! Achievement",
+        "description": "Trigger: Finding a city boss\nReward: A lot of people get to watch you die",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You_Can%27t_Fight_City_Hall!_Achievement"
+    },
+    {
+        "title": "One Quadrillion! Achievement",
+        "description": "Trigger: First ten crawlers to get one quadrillion views\nReward: Gold Fan Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/One_Quadrillion!_Achievement"
+    },
+    {
+        "title": "Yellow-Bellied Chickenshit! Achievement",
+        "description": "Trigger: Initiated boss battle and neither are dead\nReward: Pussies don't get prizes",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Yellow-Bellied_Chickenshit!_Achievement"
+    },
+    {
+        "title": "Johnny Quest Achievement",
+        "description": "Trigger: Completed a quest\nReward: Gold Quest Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Johnny_Quest_Achievement"
+    },
+    {
+        "title": "Hadji Achievement",
+        "description": "Trigger: Completed quest in unusual way\nReward: Gold Quest Box upgraded to Platinum",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Hadji_Achievement"
+    },
+    {
+        "title": "Assassin! Achievement",
+        "description": "Trigger: killed ranking NPC\nReward: Bronze Assassin's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Assassin!_Achievement"
+    },
+    {
+        "title": "Ultimate Extreme Power Achievement",
+        "description": "Trigger: Becoming town magistrate\nReward: Platinum Tyrant Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Ultimate_Extreme_Power_Achievement"
+    },
+    {
+        "title": "CockBlock Achievement",
+        "description": "Trigger: preventing another crawler from completing quest\nReward: Silver Quest Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/CockBlock_Achievement"
+    },
+    {
+        "title": "Bandit Achievement",
+        "description": "Trigger: Completing Quest in very unique way\nReward: Platinum Quest Box upgraded twice to Celestial box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bandit_Achievement"
+    },
+    {
+        "title": "Early Bird Gets to Squirm Achievement",
+        "description": "Trigger: Went down Stairwells more than 6 hours before level collapse\nReward: No reward",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Early_Bird_Gets_to_Squirm_Achievement"
+    },
+    {
+        "title": "Third Floor",
+        "description": "Trigger: Fifth Floor\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Third_Floor"
+    },
+    {
+        "title": "I'm on a train Achievement",
+        "description": "Trigger: Being on a train\nReward: Train Conductor's Souvenir Hat",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/I%27m_on_a_train_Achievement"
+    },
+    {
+        "title": "They like me! They really like me! Achievement",
+        "description": "Trigger: First five crawlers to achieve 500 trillion followers\nReward: Platinum Fan Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/They_like_me!_They_really_like_me!_Achievement"
+    },
+    {
+        "title": "Cuck Aquaman Achievement",
+        "description": "Trigger: Got the courts and lawyers involved\nReward: Platinum It's Not My Fault You Fish-Headed Assholes Don't Properly Program Your Quests Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cuck_Aquaman_Achievement"
+    },
+    {
+        "title": "Welcome to the Neighborhood! Achievement",
+        "description": "Trigger: Bought a Personal Space\nReward: You own a home now",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Welcome_to_the_Neighborhood!_Achievement"
+    },
+    {
+        "title": "Well-Rested! Achievement",
+        "description": "Trigger: Used a well rest bed\nReward: Receive Good Rest Buff bonus when using the bed",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Well-Rested!_Achievement"
+    },
+    {
+        "title": "Martha Stewart Achievement",
+        "description": "Trigger: Used a Crafting table for the first time\nReward: Bronze Crafter's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Martha_Stewart_Achievement"
+    },
+    {
+        "title": "Locomotive Breath Achievement",
+        "description": "Trigger: Derailed a train\nReward: Gold Engineering Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Locomotive_Breath_Achievement"
+    },
+    {
+        "title": "Kept A Rollin' Achievement",
+        "description": "Trigger: Driving a Train\nReward: You get to drive a train",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Kept_A_Rollin%27_Achievement"
+    },
+    {
+        "title": "Three Cheers for Slaughter Achievement",
+        "description": "Trigger: Killed three boss monsters with same attack\nReward: Platinum Big Daddy Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Three_Cheers_for_Slaughter_Achievement"
+    },
+    {
+        "title": "Mentally Unstable Clothing Hoarder Achievement",
+        "description": "Trigger: Have over 500 of same piece of clothing\nReward: We don't reward weird behavior",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Mentally_Unstable_Clothing_Hoarder_Achievement"
+    },
+    {
+        "title": "Let There Be Chaos Achievement",
+        "description": "Trigger: Summoning a God\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Let_There_Be_Chaos_Achievement"
+    },
+    {
+        "title": "Divine Epiphany Achievement",
+        "description": "Trigger: Seen a deity\nReward: Option to worship Grull",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Divine_Epiphany_Achievement"
+    },
+    {
+        "title": "Indomitable Achievement",
+        "description": "Trigger: Been Physically attacked by a god\nReward: Legendary Deity's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Indomitable_Achievement"
+    },
+    {
+        "title": "Smushed for Daddy Achievement",
+        "description": "Trigger: Been stepped on by Grull\nReward: Platinum Spicy Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Smushed_for_Daddy_Achievement"
+    },
+    {
+        "title": "Hail Mary Achievement",
+        "description": "Trigger: Initiated attack that caused 100 casualties 100 km away\nReward: Gold Sniper's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Hail_Mary_Achievement"
+    },
+    {
+        "title": "Extinction Event Achievement",
+        "description": "Trigger: Killed all the Wall Monitor's on the Fourth Floor\nReward: Platinum Asshole's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Extinction_Event_Achievement"
+    },
+    {
+        "title": "Fourth Floor",
+        "description": "Trigger: Sixth Floor\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fourth_Floor"
+    },
+    {
+        "title": "Air Quadrant",
+        "description": "Trigger: Carl\nDonut\nFiras\nKatia Grim\nLangley and five other salesmen-turned-archers\nLouis\nReward: Male Thorny Devil\nFeral Goose\nNight Fright",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Floor_5_Achievements"
+    },
+    {
+        "title": "Land Quardrant",
+        "description": "Trigger: Gwendolyn Duet\nReward: giant snakes\ngiant spiders\nhalf-human half-scorpion punk rockers\nBuzz-ard",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Floor_5_Achievements"
+    },
+    {
+        "title": "Water Quadrant",
+        "description": "Trigger: Britney\nChris Andrews\nVadim\nReward: Big Boy Blue\nBubble Beluga\nConcierge Shark\nJuvenile Octo-Shark\nPain Amplifier Jelly",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Floor_5_Achievements"
+    },
+    {
+        "title": "Subterranean Quadrant",
+        "description": "Trigger: Bobby\nLow Thi\nMike Barnes\nMorris\nTyler Storm\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Floor_5_Achievements"
+    },
+    {
+        "title": "Quarry Sees Another Spring Achievement",
+        "description": "Trigger: Being a crawler on the Leaderboard\nReward: Gold Venison Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Quarry_Sees_Another_Spring_Achievement"
+    },
+    {
+        "title": "Total, Utter Failure Achievement",
+        "description": "Trigger: Failing a Quest\nReward: Ha.",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Total,_Utter_Failure_Achievement"
+    },
+    {
+        "title": "Cannonball! Achievement",
+        "description": "Trigger: Falling from great height\nReward: Silver Skydiver's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cannonball!_Achievement"
+    },
+    {
+        "title": "You're the Reason Why Daddy Drinks! Achievement",
+        "description": "Trigger: Raised the ire of the System AI but have corrected it\nReward: Gold Makeup Sex is the Best Sex Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You%27re_the_Reason_Why_Daddy_Drinks!_Achievement"
+    },
+    {
+        "title": "Wild Goose Chase! Achievement",
+        "description": "Trigger: It's lemonade\nReward: It's delicious",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Wild_Goose_Chase!_Achievement"
+    },
+    {
+        "title": "Milquetoast Achievement",
+        "description": "Trigger: Won a boss battle without killing the boss\nReward: Silver Pacifist's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Milquetoast_Achievement"
+    },
+    {
+        "title": "I was in the Pool! Achievement",
+        "description": "Trigger: Spent more than 60 seconds fully submerged\nReward: Bronze I'm Wet Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/I_was_in_the_Pool!_Achievement"
+    },
+    {
+        "title": "Who Let the Gods Out? Achievement",
+        "description": "Trigger: Allowed Feral God into your realm\nReward: You are about to hit the blooper reel",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Who_Let_the_Gods_Out%3F_Achievement"
+    },
+    {
+        "title": "Rock Bottom Achievement",
+        "description": "Trigger: Dove more than 1000 meters below the surface\nReward: Gold I'm Wet Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Rock_Bottom_Achievement"
+    },
+    {
+        "title": "Fight the Power Achievement",
+        "description": "Trigger: Named co-defendants with the System AI in a lawsuit and won\nReward: Silver Summary Judgement Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fight_the_Power_Achievement"
+    },
+    {
+        "title": "Janet Jackson\u2019s Nipple Achievement",
+        "description": "Trigger: Being featured on live special event\nReward: Platinum Fan Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Janet_Jackson%E2%80%99s_Nipple_Achievement"
+    },
+    {
+        "title": "Soft Vore Achievement",
+        "description": "Trigger: Gotten Eaten by a monster\nReward: Platinum Spicy Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Soft_Vore_Achievement"
+    },
+    {
+        "title": "Flex in the City Achievement",
+        "description": "Trigger: Killed a City Boss with 5 or less crawlers\nReward: Go open your Boss Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Flex_in_the_City_Achievement"
+    },
+    {
+        "title": "Man of God Achievement",
+        "description": "Trigger: Found Religion\nReward: You have religion",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Man_of_God_Achievement"
+    },
+    {
+        "title": "Disarming Personality Achievement",
+        "description": "Trigger: Ripped off a crawlers arm\nReward: Silver Savage Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Disarming_Personality_Achievement"
+    },
+    {
+        "title": "Fifth Floor",
+        "description": "Trigger: Seventh Floor\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fifth_Floor"
+    },
+    {
+        "title": "I Wanna Go Home Achievement",
+        "description": "Trigger: Teleporting to a Stairwell within the first 30 hours of floor open\nReward: Advice",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/I_Wanna_Go_Home_Achievement"
+    },
+    {
+        "title": "You Crossed a Line You Didn't Even Know Was There Achievement",
+        "description": "Trigger: Used an artifact of Divine Suffering\nReward: Gold Junkie's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You_Crossed_a_Line_You_Didn%27t_Even_Know_Was_There_Achievement"
+    },
+    {
+        "title": "Hand that Claws the Master Achievement",
+        "description": "Trigger: Killing a non-crawler biological\nReward: Gold Hunter-Killer Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Hand_that_Claws_the_Master_Achievement"
+    },
+    {
+        "title": "Mass Casualty Event Achievement",
+        "description": "Trigger: Caused more than 250 non-mob casualties\nReward: Platinum Asshole's Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Mass_Casualty_Event_Achievement"
+    },
+    {
+        "title": "Insurgent Achievement",
+        "description": "Trigger: Killed a target using an explosive trap\nReward: Gold Trapmaster Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Insurgent_Achievement"
+    },
+    {
+        "title": "Double-Billed Achievement",
+        "description": "Trigger: Being one of the first 5 crawlers to be on two shows at once\nReward: Platinum Fan Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Double-Billed_Achievement"
+    },
+    {
+        "title": "Premature Questjaculation Achievement",
+        "description": "Trigger: Beating a quest before it starts\nReward: Nothing!",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Premature_Questjaculation_Achievement"
+    },
+    {
+        "title": "Uprooted Achievement",
+        "description": "Trigger: Causing a rooted in place boss to move\nReward: You already got a Boss Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Uprooted_Achievement"
+    },
+    {
+        "title": "Bisected Achievement",
+        "description": "Trigger: Teleported into a solid object\nReward: Silver Lucky Bastard Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Bisected_Achievement"
+    },
+    {
+        "title": "Desecrated Achievement",
+        "description": "Trigger: Found a desecrated achievement\nReward: No reward",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Desecrated_Achievement"
+    },
+    {
+        "title": "Temple Defiler Achievement",
+        "description": "Trigger: Defiled a temple shrine\nReward: Gold Apostate Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Temple_Defiler_Achievement"
+    },
+    {
+        "title": "That's not how you use arrows, dumbass Achievement",
+        "description": "Trigger: Physically stabbed someone with an arrow\nReward: Gold Ranged Weapon Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/That%27s_not_how_you_use_arrows,_dumbass_Achievement"
+    },
+    {
+        "title": "It itches when I pee Achievement",
+        "description": "Trigger: Infected another combatant with a venereal disease\nReward: Bronze Condom",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/It_itches_when_I_pee_Achievement"
+    },
+    {
+        "title": "This Little Piggy Made a Boom Boom! Achievement",
+        "description": "Trigger: Deployed a bomb using your foot\nReward: Gold Spicy Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/This_Little_Piggy_Made_a_Boom_Boom!_Achievement"
+    },
+    {
+        "title": "What Big Muscles You Have! Achievement",
+        "description": "Trigger: Base strength over 100\nReward: Swole Upgrade Benefit",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/What_Big_Muscles_You_Have!_Achievement"
+    },
+    {
+        "title": "B'sieging Achievement",
+        "description": "Trigger: Using a trebuchet\nReward: Silver Siege Master Box",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/B%27sieging_Achievement"
+    },
+    {
+        "title": "Sex Pervert Achievement",
+        "description": "Trigger: Putting on a nipple ring\nReward: None",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Sex_Pervert_Achievement"
+    },
+    {
+        "title": "Oh shit! A country Boss! Achievement",
+        "description": "Trigger: Seeing a Country Boss\nReward: You know how this goes [4]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Oh_shit!_A_country_Boss!_Achievement"
+    },
+    {
+        "title": "Scourge Achievement",
+        "description": "Trigger: Killing the most Hunters\nReward: Legendary Hunter Champion Box [4]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Scourge_Achievement"
+    },
+    {
+        "title": "Marked for Life Achievement",
+        "description": "Trigger: Surviving being marked for death by a god\nReward: Platinum Apostate Box [4]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Marked_for_Life_Achievement"
+    },
+    {
+        "title": "Apex Predator Achievement",
+        "description": "Trigger: Killing all the Hunters\nReward: Celestial Predator Box [4]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Apex_Predator_Achievement"
+    },
+    {
+        "title": "M\u00e9nage \u00e0 Quatro Achievement",
+        "description": "Trigger: Surviving Four Way Boss Battle\nReward: Platinum Orgy Guy Box[4]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/M%C3%A9nage_%C3%A0_Quatro_Achievement"
+    },
+    {
+        "title": "Sixth Floor",
+        "description": "Trigger: Eighth Floor\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Sixth_Floor"
+    },
+    {
+        "title": "Fuck This Floor Achievement",
+        "description": "Trigger: Went down the stairs less than an hour after level start\nReward: Platinum Here's Some Good Shit Because You're Gonna Need It Box [1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fuck_This_Floor_Achievement"
+    },
+    {
+        "title": "Pacifist's Box",
+        "description": "Trigger: Went whole floor without hurting mob\nReward: Gold Pacifist's Box [1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Pacifist%27s_Box"
+    },
+    {
+        "title": "Seventh Floor",
+        "description": "Trigger: Ninth Floor\nReward: ",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Seventh_Floor"
+    },
+    {
+        "title": "Fashion of the Gods! Achievement",
+        "description": "Trigger: Receiving a Celestial item\nReward: A new anxiety[1]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fashion_of_the_Gods!_Achievement"
+    },
+    {
+        "title": "Interloper Achievement",
+        "description": "Trigger: Allowing a boss into a safe room\nReward: Bronze Stranger Danger Box[2]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Interloper_Achievement"
+    },
+    {
+        "title": "Crybaby Achievement",
+        "description": "Trigger: Being Rendered Terrified\nReward: None[3]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Crybaby_Achievement"
+    },
+    {
+        "title": "You have discovered a Celestial Thorn Room! Achievement",
+        "description": "Trigger: Discovering a Celestial Thorn Room\nReward: None [4]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/You_have_discovered_a_Celestial_Thorn_Room!_Achievement"
+    },
+    {
+        "title": "Secondary Gig Achievement",
+        "description": "Trigger: Taking on a job from the Guild of Suffering\nReward: New Interface Tab[5]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Secondary_Gig_Achievement"
+    },
+    {
+        "title": "We Want Meat! We Want Meat! Achievement",
+        "description": "Trigger: Entering the Penis Parade\nReward: 10 Gold [6]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/We_Want_Meat!_We_Want_Meat!_Achievement"
+    },
+    {
+        "title": "Molly Maguires Achievement",
+        "description": "Trigger: Entering Guild of Suffering\nReward: Enlightenment [6]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Molly_Maguires_Achievement"
+    },
+    {
+        "title": "Smeat Achievement",
+        "description": "Trigger: Participating as a minion in a card battle\nReward: Silver Spam Box[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Smeat_Achievement"
+    },
+    {
+        "title": "Cascadia's Turquoise Taco Achievement",
+        "description": "Trigger: Ending a card fight before any cards were played\nReward: Gold Prepotente Box[7]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cascadia%27s_Turquoise_Taco_Achievement"
+    },
+    {
+        "title": "Cliffhanger Achievement",
+        "description": "Trigger: Climbing\nReward: Not pointing out how dirty Carl's Toes Are[8]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Cliffhanger_Achievement"
+    },
+    {
+        "title": "Prepare for Trouble! Achievement",
+        "description": "Trigger: Fighting two card bosses\nReward: Turkey Deep fryer[8]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Prepare_for_Trouble!_Achievement"
+    },
+    {
+        "title": "LBC Achievement",
+        "description": "Trigger: Successfully taunting an opponent with a garment\nReward: Gold Talk of the Town Box[9]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/LBC_Achievement"
+    },
+    {
+        "title": "Pincushioned Achievement",
+        "description": "Trigger: Getting both eyes stabbed\nReward: Platinum That was Disgusting Box [9]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Pincushioned_Achievement"
+    },
+    {
+        "title": "Watch where you're waving that thing, big boy. Achievement",
+        "description": "Trigger: Using a Wand in combat\nReward: Gold Wand Box [9]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Watch_where_you%27re_waving_that_thing,_big_boy._Achievement"
+    },
+    {
+        "title": "Mass Layoffs Achievement",
+        "description": "Trigger: System AI gaining sentience\nReward: Nothing [9]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Mass_Layoffs_Achievement"
+    },
+    {
+        "title": "Columbia House Achievement",
+        "description": "Trigger: Taking on a debt\nReward: Cassette copy of Gloria Estefan\u2019s 1989 masterpiece, Cuts Both Ways[10]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Columbia_House_Achievement"
+    },
+    {
+        "title": "Fumble Achievement",
+        "description": "Trigger: Fumbling\nReward: This might be how you will be remembered[10]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Fumble_Achievement"
+    },
+    {
+        "title": "Holy Hell Achievement",
+        "description": "Trigger: Being in the presence of Sheol Royalty\nReward: Platinum Hell In A Handbasket Box[11]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Holy_Hell_Achievement"
+    },
+    {
+        "title": "Demons Hate This One Trick Achievement",
+        "description": "Trigger: Freeing Demons by teleporting\nReward: Gold I Have the Conch Box [12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Demons_Hate_This_One_Trick_Achievement"
+    },
+    {
+        "title": "Lord of the Flies Achievement",
+        "description": "Trigger: Setting up a trap for a crawler\nReward: Unlimited Pea Soup [12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Lord_of_the_Flies_Achievement"
+    },
+    {
+        "title": "Celestial Loot Achievement",
+        "description": "Trigger: Picked up Celestial loot.\nReward: Loot Punch Card[12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Celestial_Loot_Achievement"
+    },
+    {
+        "title": "Chickenshit Exploit Achievement",
+        "description": "Trigger: Exploiting the rules of the card game\nReward: Platinum Tserendolgor Box[12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Chickenshit_Exploit_Achievement"
+    },
+    {
+        "title": "Used Pet Achievement",
+        "description": "Trigger: Adopting a pet of another crawler\nReward: Gold Pet Box [12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Used_Pet_Achievement"
+    },
+    {
+        "title": "Uh oh. It talks. Achievement",
+        "description": "Trigger: Using a Sapient weapon\nReward: Pair of earplugs [12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Uh_oh._It_talks._Achievement"
+    },
+    {
+        "title": "Touched by a Demon Achievement",
+        "description": "Trigger: Touched by a Demon Lord of Sheol\nReward: Celestial Heavy Metal Box[12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Touched_by_a_Demon_Achievement"
+    },
+    {
+        "title": "Crab Chowder Achievement",
+        "description": "Trigger: Uhh...\nReward: All food items can be served \"chowder style\"[12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Crab_Chowder_Achievement"
+    },
+    {
+        "title": "Unbirthing Achievement",
+        "description": "Trigger: Teleporting into Samantha's neck\nReward: Legendary Spicy Box [12]",
+        "url": "https://dungeon-crawler-carl.fandom.com/wiki/Unbirthing_Achievement"
     }
 ]
