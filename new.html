@@ -35,7 +35,6 @@
             card.innerHTML = `
                 <h3>${ach.title}</h3>
                 <p>${ach.book}</p>
-                <small>ID: ${ach.id.substring(0,8)}</small>
             `;
             card.onclick = () => {
                 window.location.href = `detail.html?id=${ach.id}`;
