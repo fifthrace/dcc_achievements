@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DCC Achievements - New Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body { font-family: 'Courier New', Courier, monospace; background-color: #1a1a1a; color: #00ff00; padding: 20px; }
+        .achievement-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; }
+        .achievement-card { border: 2px solid #00ff00; padding: 15px; border-radius: 8px; cursor: pointer; transition: background 0.3s; }
+        .achievement-card:hover { background-color: #333; }
+        h1 { text-align: center; color: #ff00ff; text-shadow: 2px 2px #000; }
+        a { color: inherit; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>SYSTEM AI - ACHIEVEMENT REGISTRY</h1>
+    <div class="achievement-list" id="gallery">
+        <!-- populated by script -->
+    </div>
+
+    <script>
+        const achievements = [
+            { id: "6da418cc-dfd0-5f62-af0f-d44de377e511", title: "Crazy Cat Lady", book: "Book 1", clip: "book1_crazy_cat_lady.mp3" },
+            { id: "1259f2b8-ce11-54c7-b4d7-5f879961c1d7", title: "Trailblazing Crazy Cat Lady", book: "Book 1", clip: "book1_trailblazing_ccl.mp3" },
+            { id: "77a4d4c7-514b-5616-b1ef-f8caf3f2377d", title: "Early Adopter", book: "Book 1", clip: "book1_early_adopter.mp3" },
+            { id: "beaf4e9c-7a2a-5030-ae5c-8a75670323c1", title: "Empty pockets", book: "Book 1", clip: "book1_empty_pockets.mp3" }
+        ];
+
+        const gallery = document.getElementById('gallery');
+        achievements.forEach(ach => {
+            const card = document.createElement('div');
+            card.className = 'achievement-card';
+            card.innerHTML = `
+                <h3>${ach.title}</h3>
+                <p>${ach.book}</p>
+                <small>ID: ${ach.id.substring(0,8)}</small>
+            `;
+            card.onclick = () => {
+                window.location.href = `detail.html?id=${ach.id}`;
+            };
+            gallery.appendChild(card);
+        });
+    </script>
+</body>
+</html>

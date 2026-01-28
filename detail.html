@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Achievement Detail</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body { font-family: 'Courier New', Courier, monospace; background-color: #1a1a1a; color: #00ff00; padding: 40px; text-align: center; }
+        .detail-box { border: 3px solid #ff00ff; padding: 30px; border-radius: 15px; max-width: 800px; margin: auto; background-color: #000; }
+        .description { font-style: italic; color: #fff; margin: 20px 0; line-height: 1.6; text-align: left; }
+        audio { width: 100%; margin-top: 20px; }
+        .back-link { margin-top: 30px; display: block; color: #00ff00; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="detail-box">
+        <h1 id="title">Loading...</h1>
+        <h3 id="book">...</h3>
+        <div class="description" id="desc">...</div>
+        <audio id="player" controls></audio>
+    </div>
+    <a href="new.html" class="back-link">Back to Registry</a>
+
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const achId = urlParams.get('id');
+
+        // This would eventually fetch from the real JSONs
+        const audioMap = {
+            "6da418cc-dfd0-5f62-af0f-d44de377e511": { title: "Crazy Cat Lady", book: "Book 1", clip: "book1_crazy_cat_lady.mp3", desc: "Congratulations! You’ve earned your first achievement: Crazy Cat Lady. You have entered the World Dungeon accompanied by a cat. Ahh, isn’t that sweet? Reward: You’ve received a Bronze Pet Box!" },
+            "1259f2b8-ce11-54c7-b4d7-5f879961c1d7": { title: "Trailblazing Crazy Cat Lady", book: "Book 1", clip: "book1_trailblazing_ccl.mp3", desc: "New achievement! Trailblazing Crazy Cat Lady. You are the first crawler to have entered to the World Dungeon accompanied by a cat. You must really love that thing. Too bad you’re both probably going to die a horrible death at any moment. Or maybe not. Look at the prize you just received! Reward: You’ve received a Legendary Pet Box!" },
+            "77a4d4c7-514b-5616-b1ef-f8caf3f2377d": { title: "Early Adopter", book: "Book 1", clip: "book1_early_adopter.mp3", desc: "New achievement! Early Adopter. You are one of the first 5,000 Crawlers to enter a new World Dungeon. Sucker. Reward: You’ve received a Silver Adventurer Box!" },
+            "beaf4e9c-7a2a-5030-ae5c-8a75670323c1": { title: "Empty pockets", book: "Book 1", clip: "book1_empty_pockets.mp3", desc: "New achievement! Empty pockets. You didn’t bring any supplies. None. You know you still gotta eat, right? Reward: You’ve received a Bronze Adventurer Box!" }
+        };
+
+        const data = audioMap[achId];
+        if (data) {
+            document.getElementById('title').innerText = data.title;
+            document.getElementById('book').innerText = data.book;
+            document.getElementById('desc').innerText = data.desc;
+            document.getElementById('player').src = `audio_clips/${data.clip}`;
+        }
+    </script>
+</body>
+</html>

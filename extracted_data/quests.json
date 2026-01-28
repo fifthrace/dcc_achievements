@@ -1,0 +1,502 @@
+[
+  {
+    "title": "The Fools Who Broke the Glass",
+    "description": "New Quest. The Fools Who Broke the Glass. \nTHIS IS A GROUP QUEST. All Crawlers currently within the 45 square kilometer blast radius will receive this quest. \nYour party has been designated Host of this Group Quest. As hosts, you will not be allowed to opt-out from this quest. \nWhat the hell is going on? Am I glad you asked! \nA while back a certain NPC started casting a very powerful spell, a spell so potent, that it had to be completed by a future generation. \nHere\u2019s the thing with old spells. They\u2019re like trees. They grow. They get big. Sometimes huge. Bad shit happens when they get screwed up. The bigger the spell, the badder the shit. And boy was this spell big. Not gonna lie. Your favorite AI was looking forward to it going off. \nOh well. This will be almost as good. \nShit is about to go down. For example, you may have noticed every Skyfowl and Chickadee NPC in the area has fallen ill. Most of them have already plunged into a coma, or death. It\u2019s not their fault, but they were tied to the spell, and that\u2019s just the way it is. \nJust like it\u2019s not your fault that you happen to be within 45 kilometers of the fallout from this failed spell. Again, not your fault. (Well, unless you\u2019re Crawlers Carl, Princess Donut, or Katia Grim. Then it\u2019s your fault.) That\u2019s just the way it is. Sucks to be you. \nThere\u2019s going to be an explosion. The epicenter of the blast is marked on your map. Every crawler within the designated blast area is fucked. \nThe object of this quest is simple. Unfuck yourself. Don\u2019t die. \nWarning : This is an event quest. If you do not wish to participate in this quest, you will have sixty seconds from the end of this message to get yourselves into a saferoom. After that, all access to saferooms within the quest zone will be shut off until the event quest is concluded. All NPCs who remain indoors, saferoom or not, will remain safe. All mobs and neighborhood-level boss monsters within the blast radius subject to both physical and magical explosions will be killed. \nReward : All participants who survive will receive a Platinum Quest Box. \nOh, by the way. The explosion is coming in seven minutes. \nRun.",
+    "source_file": "Matt Dinniman - [Dungeon Crawler Carl 02] - Carl's Doomsday Scenario (epub).txt",
+    "quest_status": "Completed",
+    "book_title": "Book 2: Carl's Doomsday Scenario",
+    "chapter": "Part Of",
+    "id": "af28f200-3cd4-500f-9b22-bc323dc48b20"
+  },
+  {
+    "title": "The Sex Workers Who Fell From the Heavens",
+    "description": "New Quest. The Sex Workers Who Fell From the Heavens. \nProstitutes. Escorts. Street Walkers. Ladies of the Night. \nIt doesn\u2019t matter how you describe them because these chicks are dead. Very dead. And every morning, several more of them appear scattered throughout the village. Nobody knows who they are or where they come from. Find out why. \nReward : You will receive a Silver Quest Box.",
+    "source_file": "Matt Dinniman - [Dungeon Crawler Carl 02] - Carl's Doomsday Scenario (epub).txt",
+    "quest_status": "Started",
+    "book_title": "Book 2: Carl's Doomsday Scenario",
+    "chapter": "Chapter 61",
+    "id": "e9698571-89dd-5b5f-9624-24c8a5b1fd98"
+  },
+  {
+    "title": "Levi is On the Menu",
+    "description": "New Quest. Levi is On the Menu! \nThis is a pass or fail quest. Failure has consequences. \nDo not allow Levi the 7th to be devoured by the Fleshers. This quest is active as long as you remain on the train. \nReward : You will receive a Silver Quest Box. \nFailure : Every crawler on the train will be turned into a Flesher.",
+    "source_file": "Matt Dinniman - [Dungeon Crawler Carl 02] - Carl's Doomsday Scenario (epub).txt",
+    "quest_status": "Started",
+    "book_title": "Book 2: Carl's Doomsday Scenario",
+    "chapter": "Part Of",
+    "id": "53cfb007-6d73-5097-a736-3ce1bf4fdb1d"
+  },
+  {
+    "title": "Quest Update",
+    "description": "Quest Update. \nYou\u2019ve probably noticed you\u2019re not dead. Everybody say, \u201cThank you Crawler Carl.\u201d I\u2019ll give you a second to luxuriate in your victory. \nThat\u2019s the good news. You might want to sit down for this next part.",
+    "source_file": "Matt Dinniman - [Dungeon Crawler Carl 02] - Carl's Doomsday Scenario (epub).txt",
+    "quest_status": "Updated",
+    "book_title": "Book 2: Carl's Doomsday Scenario",
+    "chapter": "Unknown",
+    "id": "e75ddae8-d030-5866-ae4b-37855f01a3d6"
+  },
+  {
+    "title": "The Sex Workers Who Fell From the Heavens",
+    "description": "Quest completed. The Sex Workers Who Fell From the Heavens.",
+    "source_file": "Matt Dinniman - [Dungeon Crawler Carl 02] - Carl's Doomsday Scenario (epub).txt",
+    "quest_status": "Completed",
+    "book_title": "Book 2: Carl's Doomsday Scenario",
+    "chapter": "Part Of",
+    "id": "0cdd8b25-fc3d-5666-b61b-da585b6a085b"
+  },
+  {
+    "title": "The Show Must Go On",
+    "description": "Quest Completed. The Show Must Go On.",
+    "source_file": "Matt Dinniman - [Dungeon Crawler Carl 02] - Carl's Doomsday Scenario (epub).txt",
+    "quest_status": "Completed",
+    "book_title": "Book 2: Carl's Doomsday Scenario",
+    "chapter": "Chapter Of",
+    "id": "f6f2960a-a928-5d06-91ac-3575780450c2"
+  },
+  {
+    "title": "The Show Must Go On",
+    "description": "New Quest. The Show Must Go On.",
+    "source_file": "Matt Dinniman - [Dungeon Crawler Carl 02] - Carl's Doomsday Scenario (epub).txt",
+    "quest_status": "Started",
+    "book_title": "Book 2: Carl's Doomsday Scenario",
+    "chapter": "Chapter 51",
+    "id": "debe05f4-1b1b-535c-bf49-72304c0993a8"
+  },
+  {
+    "title": "Levi is On the Menu",
+    "description": "New Quest. Levi is On the Menu! \nThis is a pass or fail quest. Failure has consequences. \nDo not allow Levi the 7th to be devoured by the Fleshers. This quest is active as long as you remain on the train. \nReward : You will receive a Silver Quest Box. \nFailure : Every crawler on the train will be turned into a Flesher.",
+    "source_file": "Dungeon Crawler Carl 03 - The Dungeon Anarchist's Cookbook - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 3: The Dungeon Anarchist's Cookbook",
+    "chapter": "Part Of",
+    "id": "53cfb007-6d73-5097-a736-3ce1bf4fdb1d"
+  },
+  {
+    "title": "Where the Red God Glows",
+    "description": "New Quest. Where the Red God Glows. \nTHIS IS A GROUP QUEST. All Crawlers currently within bubble number 543 will receive this quest. \nYour party has been designated Host of this Group Quest. \nNo parties may opt-out of this quest. \nDid you ever read the book Where the Red Fern Grows ? \nOh, it\u2019s great. It\u2019s about this kid who saves up his money to buy a couple of coonhounds. Little Ann and Old Dan. And there\u2019s a naughty cat involved. A bunch of stuff happens. \nAnyway, did you ever notice this strange phenomenon when it comes to earth books about dogs? They always die in the end. Always. What kind of sick, sadistic fuckers are you? \nPuppies shouldn\u2019t ever share a world with pain. Yet here we are. Thanks, earth culture. \nOrthrus the giant puppy is getting shocked in the ass by a constant barrage of lightning. He\u2019s also getting bitten over and over in the ankles by a bunch of tenacious sharks. It\u2019s starting to hurt. Poor little guy. His health is going down. \nHis death will be the fault of all of you. Especially Crawler Carl, who callously shoved the poor puppy into a bubble much too small and much too dangerous for him. \nIf Orthrus dies, the full-powered god Emberus will turn this bubble into a kiln. Good luck getting to a stairwell if that happens. \nIf the puppy survives the lightning storm and escapes the sharks, odds are pretty good you\u2019ll die anyway. But at least you\u2019ll die knowing you shed this world without ever causing harm to a defenseless puppy. \nOh, except Crawler Maggie My. She once ran over a baby Labrador with her Chevy Tahoe. What a bitch! \nReward : It\u2019s a surprise.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Part Of",
+    "id": "9caa0964-beab-5d5f-b3e5-2256457fe1a7"
+  },
+  {
+    "title": "The Dumber of the Flunkies",
+    "description": "New Quest. The Dumber of the Flunkies. \nTHIS IS A GROUP QUEST. All survivors of the previous group quest are now a party to this quest. And why the hell not, all Crawlers in Bubble number 18 are also added to the quest. Let\u2019s make it a fiesta. \nYour party has been designated Host of this Group Quest. \nNo parties may opt-out of this quest. \nOh boy, oh boy do we have a situation here. Emberus, god of fire and ash seems to believe his son\u2019s missing puppy is inside of bubble 18. The dog is not, in fact, within that bubble. He\u2019s just outside of 543, having been recently rescued from a painful death. The next step should be easy. You just gotta bring the two together. Once that happens, both Emberus and Orthrus will immediately return to the Celestial Halls and everything will be almost back to normal. \nIf something happens to the pup, you will fail this quest. If you fail this quest, you will each in turn be smote by Emberus one by one, no matter what floor you\u2019re on. You probably don\u2019t know what that means. You don\u2019t want to know what that means. \nHmmm. Maybe that\u2019s a little too easy. Do you know not a single crawler in Bubble 18 has yet died? The whole world has been turned to lava, and they\u2019re all still alive! That\u2019s just ridiculous. That\u2019s no fiesta. Let me think on this for a minute. \nReward: You will receive a Platinum Quest Box!",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Part Of",
+    "id": "5f263e6b-cbd8-56bf-9514-6ff6784ffce9"
+  },
+  {
+    "title": "Squeeze out the Juice Box",
+    "description": "New Quest. Squeeze out the Juice Box. \nThat mischievous Changeling prostitute appears to be more important to this story than you first thought. It also appears she\u2019s rather fond of her brothers and sisters, many of whom are currently outside, mixed in with the poor, oblivious Dromedarians, preparing to die in a desperate attempt to destroy all the incoming bombs with flak. If this town is bombed, they will not succeed. They will not even come close to succeeding. \nTo win this quest, you must save Hump Town from the inevitable bombardment, which will occur when the timer reaches zero. \nReward : You will receive a Platinum Quest Box. \nIn addition, all crawlers in this quadrant will receive a permanent fifty percent charisma bonus during any future interactions with Changelings. \nYou\u2019ll also receive my undying respect, because there is no way in hell even you can pull this one off.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Part Of",
+    "id": "9c71b8ec-c2b2-59b3-be16-2e59f5bc6021"
+  },
+  {
+    "title": "Get Orthrus",
+    "description": "New Quest! Get Orthrus. \nThis is a world quest! All living crawlers on the fifth floor will receive this message! \nNow it\u2019s a party. \nOrthrus, the two-headed puppy is bounding his way happily through the Lacuna, the world that houses the bubbles. This very adorable pup is running back to his former master\u2019s father. Don\u2019t worry. You can\u2019t miss him. He just drenched the folks in bubble 331, and then he knocked down the Sounder Tower in bubble 298. \nWhat a menace! \nLet\u2019s kill it. \nReward : Any crawler who kills this cute puppy before he reunites with grandpa will receive the following: \nOne million gold pieces. \nFive level-up potions. \nA pet monkey named Jimbo. \nCurrent participants in the \u201cDumber of the Flunkies\u201d group quest are free to kill the puppy if they are sadistic assholes, but they will not receive the rewards. You know what, never mind. They get the prize, too!",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Unknown",
+    "id": "c93ff874-1b19-5afd-bafc-d2dbaa40edf6"
+  },
+  {
+    "title": "Kill Hellik",
+    "description": "New Quest. Kill Hellik. \nMy twin brother Hellik, god of Sun and Life seeks to kill both me and my older brother, Taranis God of Thunder and regent to the Celestial Throne. He is a fool. He is a danger. He has no right to exist. As an adherent, it is your task to kill him. You will receive a bonus if his death is painful. \nTime Limit : Hellik must die before you reach the 12 th floor. If he still lives, you will receive a smite. \nReward : Slaying Hellik will result in a Celestial God Box. \nWarning: Killing a god may have some unintended consequences for all crawlers.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Unknown",
+    "id": "73e8cc0f-61a7-50e2-a232-434ef938d39a"
+  },
+  {
+    "title": "Find Out Who Killed My Son",
+    "description": "New Quest. Find Out Who Killed My Son. \nGeyrun was murdered. Find out who did it and why. My only clue is that the most obvious suspect, my brother Hellik, was in council with the rest of us when it happened. Visit the high cleric at the Emberus Shrine at Club Vanquisher for additional details. \nTime Limit : There is no time limit for this quest. However, you will receive a smite if you attempt to exit the 18 th floor of the world dungeon before this task is complete. \nReward : That depends on who did it.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Chapter 32",
+    "id": "3db267fe-dbee-5adf-9b5a-af987cd15b87"
+  },
+  {
+    "title": "Free Wynne from his bondage",
+    "description": "New Quest. Free Wynne from his bondage. \nWynne the Dirigible Gnome is in chains. Free him, and he will provide easy access to the Wasteland . \nReward : You will receive a Silver Quest Box. \nKatia : Nice. Now get the hell out of there. \nDonut : CARL. I DON\u2019T KNOW WHAT YOU\u2019RE DOING DOWN THERE BUT YOU NEED TO GET BACK UP HERE BEFORE LOUIS DIES OF A HEART ATTACK.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Part Of",
+    "id": "11afdc99-aa23-574a-a42d-e48c3b6ccaf9"
+  },
+  {
+    "title": "Where the Red God Glows",
+    "description": "Quest Complete! Where the Red God Glows! \nYou removed the puppy from danger! Hurray! \nFor everybody who was involved in this quest who actually didn\u2019t do anything, shame on you. The next time you\u2019re in mortal danger, I hope you remember this moment when nobody comes out of nowhere to save your ass. At least you all get the same reward. \nReward : You get a",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "is_split": true,
+    "quest_status": "Completed",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Chapter 30",
+    "id": "bc67e68c-2245-5b41-a8dd-c477452d864b"
+  },
+  {
+    "title": "The Gate of the Feral Gods",
+    "description": "New Quest. The Gate of the Feral Gods. \nHenrik the Changeling. Commandant Kane. The Mad Dune Mage. They all have pieces of the artifact. Take it from them. Collect all three. Put them together. \nWhat happens next is pretty damn neat. \nReward: Oh boy-oh-boy. \nOh boy-oh-boy.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Part Of",
+    "id": "bc2a589e-a0b2-5dde-b5d6-f533676c4e61"
+  },
+  {
+    "title": "The Dumber of the Flunkies",
+    "description": "Quest Complete! The Dumber of the Flunkies! \nYou saved a sweet, innocent puppy! He\u2019s now frolicking on the twelfth floor where he will soon resume his training. Nun-defiling is back on the menu! \nReward: You\u2019ve received a platinum quest box!",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Part Of",
+    "id": "8ff06970-160b-59f3-996a-86b7535940e4"
+  },
+  {
+    "title": "\u201cStay out of city hall",
+    "description": "New Quest. \u201cStay out of city hall.\u201d \nFind out what\u2019s in city hall. It just might be important. \nReward : You will receive a Silver Quest Box.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Chapter 1",
+    "id": "169602ee-b4dc-555e-93e1-bbd477d55ecb"
+  },
+  {
+    "title": "The Gate of the Feral Gods",
+    "description": "Quest Complete. The Gate of the Feral Gods.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Chapter 27",
+    "id": "a7ae5592-561f-5182-9763-fd1286e4d4b4"
+  },
+  {
+    "title": "Free Wynne from his bondage",
+    "description": "Quest failed. Free Wynne from his bondage.",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "quest_status": "Failed",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Part Of",
+    "id": "fbe0a6c5-b4dd-51d4-8e06-547ecf5111e2"
+  },
+  {
+    "title": "",
+    "description": "new quest!",
+    "source_file": "The Gate of the Feral Gods - Matt Dinniman.txt",
+    "is_split": true,
+    "quest_status": "Started",
+    "book_title": "Book 4: The Gate of the Feral Gods",
+    "chapter": "Chapter 30",
+    "id": "c292f03c-1335-520d-a0ec-4f46f9cbb82f"
+  },
+  {
+    "title": "The Creeping Apocalypse",
+    "description": "New Quest. The Creeping Apocalypse. \nThis is a world quest! All crawlers and all hunters currently active on the sixth floor will receive this quest! \nYou may not opt out of this quest. \nMiriam Dom the vampire has fallen. With the rising of today\u2019s sun, she found herself caught out in the open. Helpless and crying, she burned away into dust. The callous crawlers Carl and Princess Donut watched and did nothing as she died in agonizing pain. Nothing! \n(Actually, not nothing. Someone should probably ask Carl why he suddenly has three new points to his intelligence stat. Suspicious!) \nAnyway, Miriam did not go quietly into the good night. Oh no. Her death has cured thousands of crawlers, monsters, and hunters who have been touched by the vampirism curse. \nThere is, however, a problem. \nSome of the forest monsters infected with vampirism have spent the past few nights on a killing spree. And another vampire, a now-cured Allosaurus by the name of Big Tina, unfortunately has expended a lot of effort on building an army of undead monstrosities using the... leftovers... from the forest-wide slaughter. \nThese newly created monsters are not vampires, and they were not cured when Miriam died. These mindless freaks were left all alone, not under control from any entity. Some are nothing more than mini-Grinders, also known as Shrillings, also known as Shambling Berserkers. We\u2019ve all seen these before, most notably in some of the train stations at the end of the fourth floor. Yes, they can get pretty big and annoying, but it\u2019s not anything you really need to worry about. Hardly worth a regular quest, let alone a world one. You\u2019d have to be a total idiot to let one of those things kill you, especially during the day. I\u2019m looking at you, Nihit Kumar who\u2019s about two seconds from getting... Oh, that\u2019s a shame. Gross. \nAnyway, some of the other, more powerful monsters have become something else, and short of a god, they are the most powerful monsters who have ever set foot on a sixth floor in Dungeon Crawler World history. \nI like to call them Odious Creepers. \nThe good news? Like Shambling Berserkers, Odious Creepers tend to be pretty slow during the day. The bad news? When it\u2019s dark outside, they gain the ability to combine with both Shamblers and other Creepers and get even stronger. And they can get fast, very fast. They can replicate themselves, too, if they have the parts! \nThere are currently fifty of these things... growing around... the forest, plus another few thousand Shambling Berserkers of various sizes. For fun, we have randomized their location. And for extra fun, we have marked the location of each creeper on the map for you all. \nSo, here\u2019s the quest part. Kill all the Odious Creepers before the sun sets tonight. \nFor every Creeper you kill, you will receive +5 to a random stat. For every five you kill, you will receive an additional +5 levels. The crawler or hunter who kills the most will get an additional prize. \nOnly the person who does the most damage gets credit for the kill. \nIf you don\u2019t kill all of them before the sun sets tonight, bad stuff will happen. And I mean every single one of the fifty Creepers. And by bad stuff, I mean something completely batshit. And not just to the crawlers, but the hunters, too. So all of you cowards sitting on your ass in Zockau need to get to work.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Chapter 29",
+    "id": "66f54542-d6b4-56e3-922d-264b2a05ffe7"
+  },
+  {
+    "title": "The Vengeance of the Daughter",
+    "description": "New Quest. The Vengeance of the Daughter. \nPart Two of Two. \nTsarina Signet has taken back her family\u2019s castle only to find the place in ruins and the Confederacy in tatters. Her people have regressed to a time before society taught them that eating everybody they meet is just rude. They are nothing better than selfish, wild animals, reminiscent of those creatures who crawl over each other to purchase televisions on Black Friday each year. Signet has a long road ahead of her to reunite her people. \nBut that shit\u2019s boring, and we ain\u2019t gonna make you have anything to do with it. We\u2019re still on the revenge track, and we\u2019re going to fast forward to the good stuff. \nThe true culprit in all of this are the murderous and xenophobic high elves. And since King Finian is now dead, your target is Tsarina Signet\u2019s half-sister, Queen Imogen. The reclusive, pure-blooded mage rarely ventures from her chambers deep in the impenetrable high elf castle. She does, however, make an appearance at the yearly party the high elves throw for the most elite citizens of their empire. \nThe same party you will be invited to should you remain one of the game\u2019s top players. \nHelp Signet kill Queen Imogen. Destroy the stranglehold the high elves have on the Hunting Grounds. Only then will the daughter find her revenge. \nFair warning. This one won\u2019t be nearly as easy as the last. \nReward : Upon killing Queen Imogen, the contents of the High Elf Castle will become available to loot. There\u2019s a rumor they have something hidden within that will protect one from Scolopendra\u2019s attacks. That, plus a metric fuck ton of other good shit.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Part Of",
+    "id": "96d0c82b-8c24-5feb-ac99-0af9fd1d5ef2"
+  },
+  {
+    "title": "The Vengeance of the Daughter",
+    "description": "New Quest. The Vengeance of the Daughter. \nPart One of Two. \nTsarina Signet, exiled half-daughter of the Naiad has finally come home. Her kingdom, once flourishing and beautiful, has become marred by infighting and a sloppy revolution that cut off the head of the government and left the body flailing. \nSignet has returned and wishes to reclaim her mother\u2019s crown. Or at the very least, put a proper government in place. In order to do that, she must assassinate the current leaders of the Naiad Confederacy, who are holed up in their fortress at the former river palace of the Naiad, now dubbed \u201cFort Freedom.\u201d \nHelp Signet assault Fort Freedom and establish revenge against her mother\u2019s assassination. \nReward : You get to move on to part two. In addition, every survivor of the assault against the Confederacy will be 20% more willing to follow your orders. I bet that number will go up even more if you complete the second half of this quest.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Part Of",
+    "id": "4d2b8e9d-98a7-563a-a150-7146d2f0139f"
+  },
+  {
+    "title": "The Creeping Apocalypse",
+    "description": "Quest Failed. The Creeping Apocalypse. \nHoly shit. You idiots. \nI warned you. I promised batshit consequences for failing one of the easiest world quests ever. \nHere we go, bitches! \nI can\u2019t help but notice the two remaining Odious Creepers happen to be where only the hunters could conceivably reach them. That\u2019s where this is going to start. You hunter guys holed up in Zockau are so fucked. \nAll of you may notice there\u2019s a new status bar in your interface. There\u2019s an official name for this thing, but I like to call it the blood bar. Effective immediately and for the remainder of this floor, all saferoom access\u2014and this includes personal space access\u2014is operated under tenth floor and below rules. \nOh shit",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Failed",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Part Of",
+    "id": "5cdc52c2-672a-5e6e-bec0-1abbb7af9fac"
+  },
+  {
+    "title": "The Recital",
+    "description": "New Quest! The Recital. \nDinosaur attacks are becoming more and more of a problem in the large settlement of Point Mongo. It started small. A chicken here. An Ursine there. People didn\u2019t care so much at first since they were mostly picking off the annoying people. But the attacks are getting worse. The dinosaurs probing the town\u2019s defenses are getting bigger. There\u2019s plenty of easier-to-obtain dino chow out in the jungle, so what is causing all of this attention on Point Mongo? Why are they attacking? \nExterminate the threat. Or, find out what they want, and then give it to them. I\u2019ll leave it up to you. \nReward : You will receive a Gold Quest Box! The town leader will also receive a town upgrade!",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Unknown",
+    "id": "ef99b809-3d18-57ed-95ae-a6a60b709e27"
+  },
+  {
+    "title": "The Recital",
+    "description": "Quest Update. The Recital. \nBig Tina is out of control. \nShe\u2019s on a rampage, killing every ursine she can find. She\u2019s angrier than ever. Her violence, which used to be an occasional nuisance, has turned into a looming threat for everyone in the hunting grounds. If she\u2019s not dealt with soon, the High Elves may field their army in order to deal with it. You do not want that to happen. \nTina must be stopped. Kill her or give her what she wants.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Unknown",
+    "id": "6d244485-91a5-5981-b341-f45e7e0d6a13"
+  },
+  {
+    "title": "The Recital",
+    "description": "Quest Update. The Recital. \nThere\u2019s a dinosaur out there named Big Tina, and she\u2019s being a bad, bad girl. She\u2019s somehow involved in the attacks on Point Mongo. Find out what this crazy dino chick is up to. Kill her to save the town. Or find out why she\u2019s the way she is, and do something about it.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Unknown",
+    "id": "9e462c1a-b1c5-5c67-96e5-be7cf3183a3a"
+  },
+  {
+    "title": "The Vengeance of the Daughter",
+    "description": "Quest Complete. The Vengeance of the Daughter. Part One. \nAll surviving members of the assault like you 20% more. That doesn\u2019t really mean anything. Especially since half the squad is dead because you left the southern shore unprotected. The real prize comes at the end of part two.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Chapter 17",
+    "id": "59064308-399a-56e7-8320-d6fc94f37fc0"
+  },
+  {
+    "title": "Find Out Who Killed My Son",
+    "description": "Quest Update. Find Out Who Killed My Son. \nObtain the item: Memorial Crystal: Apito. See if this has any bearing on Geyrun\u2019s murder. You still need to speak with the high cleric at the Emberus Shrine in Club Vanquisher.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Part Out",
+    "id": "3149b42f-449a-5456-9afe-b9fe4f4b1e5a"
+  },
+  {
+    "title": "The Recital",
+    "description": "Quest Update. The Recital. \nSurprise, motherfuckers. Strap yourselves in. You don\u2019t know the half of it. It\u2019s about to get bumpy.",
+    "source_file": "Butchers Masquerade (Dungeon Crawler Carl V) by Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 5: The Butcher's Masquerade",
+    "chapter": "Unknown",
+    "id": "c7ecca12-64cc-5f76-8ed6-a7184719d644"
+  },
+  {
+    "title": "Hell Comes to Crawler Town",
+    "description": "New Quest. Hell Comes to Crawler Town. \nWar is Hell. \nFor days now, the battles between the Monk Seals and the Red Man\u00edseros Land Crabs have reached a fevered pitch. The sneak attack of the crabs was stopped in its tracks thanks to crawler Sister Ines Quiteria warning the Seals of the treachery, but that warning has come with a terrible price. Instead of a quick attack and surrender, it has become a war of attrition, with both sides losing devastating numbers in only a matter of days. \nThe sea runs red and blue. The corpses pile high upon the beach. The very children both parties were trying to save have suffered, and by this point, the only hope of survival from either side is for them to completely wipe out their enemy. \nThat\u2019s how it is, is it not? When there is war, so often an armistice is nothing more than a delay. A job left undone. An overdue bill for those down the road to eventually pay, and pay with interest. \nWar is Hell. \nAnd hell, my child, hell is not just a place. It is a contagion. It is a virus. It spreads. \nBut worst of all, it attracts . \nSo much death has bombarded the underworld, those who notice such things have taken a special interest in this battle, in this war, in this minor annihilation of two species fighting for their very existence. \nThis happens from time to time. Gods and demons lifting their heads. Oftentimes, that\u2019s as far as it goes. A notice. An interest piqued. \nThis, I\u2019m starting to learn, happens out there, too. But that\u2019s for another day. \nSo much has happened here. Previously-forgotten gods have risen. That alone has caused a great amount of consternation. But there is more. The great prison, the Nothing, has been breached, and not for the first time. This is also concerning, especially amongst those who banished the harem there in the first place. All across the land, gods and demons are being involuntarily summoned from their halls to walk the land. Some of the gods are acting strange. They are acting in ways they should not. \nYes, yes. Both Demons and Gods are paying attention now. Real attention. \nThis usually happens here in the dungeon, but only upon the battlefields outside Larracos, where the Semeru Dwarves built their castle along the roots of the All Tree, seeking the very gods who disdain them. \nIt has never happened this early, this soon. \nWar is Hell... \nAnd Hell really wants to come play. \nWhich is unfortunate, considering some dumbass recently dumped a bunch of highly-contagious, fast-spreading zombie farm animals into an ocean that connects everything. \nFun fact. Most demons can\u2019t just enter the world. They need a weakened shell to inhabit. Something like a new corpse is difficult for them. But if it\u2019s a zombie... \n... \nYou no longer need to choose a side between the Crabs and the Seals because both sides are fucked. They just don\u2019t know it yet. You just need to not die. Get down the stairs without being involuntarily dragged into hell. That\u2019s how you win this quest. \nReward : You will receive a Legendary Quest Box. That, and a commemorative set of bagpipes.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Part Of",
+    "id": "14d34039-05f9-5101-96a3-9ea45d01ab56"
+  },
+  {
+    "title": "Where the Sidewalk Ends",
+    "description": "New Quest. Where the Sidewalk Ends. \nThis is a regional quest. All crawlers within the area of Cuba have been added to this quest. \nYour squad has been designated as host of this quest. \nOh, all right. For fuck\u2019s sake. I\u2019ve been debating on whether or not to allow this, but now that so many of you are hell bent on dying in such a spectacular manner, we might as well make it official. \nAmayon, one of the four princes of Sheol has been betrayed by one of his brothers. After being unceremoniously expelled from the kingdom of Sheol, the demon prince has managed to just barely hold on long enough to pull himself onto the equivalent of a very, very small ledge. The level 250 demon lord now inhabits the body of a lesser deity, a once-worshiped sea serpent who went by the name of the Madre de Aguas . \nIn order to return home, Amayon simply must cast a spell. But nobody, not even a prince, rides the river for free. A tithe of souls is required to pass back downward. And for a demon of his power, even as weak as he is right now, that tithe is pretty steep. \nSo he has cast his spell, a wide-area portal that will inhale all the souls within the Cuba area. This will be enough, barely, to send him home. \nUnfortunately for Amayon, his expulsion has not gone unnoticed. Other entities have noted that he is far from home, and they are doing what they can to keep him from returning. He is being thwarted. But even in his weakened state, he is still strong. He is still pushing the spell through. \nHere are your options. Option 1. Do nothing. \nReward : In two hours, the portal will cast, and all of the Cuba region will be sucked upward into the Sheol portal. This may or may not be a good thing depending on where you\u2019re standing when this happens. This portal will remain open for the remainder of this floor. Translation. Get the fuck out when you can. Option 2. Free Amayon from his shell. \nReward : This will cause Amayon to take his true form. The timer will reset, and this quest will reset into a World quest. We\u2019ve never had a full-powered, untethered hell prince unleashed on a lower floor before. I\u2019m sure it\u2019ll be fine. Option 3. Kill Amayon. \nYeah, good luck with that, especially since he is invulnerable on this floor. \nReward : You will receive a Celestial Hell Boon.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 62",
+    "id": "ae36e698-31d9-5e3b-86d7-9fa2ea6c036d"
+  },
+  {
+    "title": "Pueblo de los Olvidados",
+    "description": "New Quest! Pueblo de los Olvidados. \nThis is a little obvious since you\u2019re locked in here, but this is a compulsory quest. You can take your time with this one, but you ain\u2019t getting out until it\u2019s done. \nIsn\u2019t this a cute little town? It\u2019s just so quaint! Too bad the entire populace was turned into a gaggle of horrific, undead monsters who now want to devour your delicious souls. \nThis place used to be populated with a race of creature called a Ghommid. \nHave you ever looked through a microscope at a drop of seawater? It\u2019s really disturbing. There\u2019s all sorts of weird shit in there. Honestly, it gives me nightmares. \nAnyway, that\u2019s kinda what you get when you look at a Ghommid village. A \u201cGhommid\u201d is a sort of catch-all term for just your regular, run-of-the-mill other-realm creature. Visitors to this world from the land of the dead. There are all sorts, and many of them are one-of-a-kind. And like all those weird bugs and microbes in that drop of water, they do different things. Most are harmless. Some are cute. Some are angry. Some will give you explosive diarrhea just for fun. They often settle in areas where the veil is thin. Like cemeteries. \nThe problem with spirit creatures is that there really are all kinds. A settlement like this is bound to eventually implode. This was inevitable. \nIn this case, a spirit showed up, and for whatever reason turned everyone in the village into a ravenous, unsettled, I-want-to-turn-your-flesh-inside-out-and-party-with-your-intestines monster. \nYou must find and eradicate the source of the sickness. Removing it from the area will likely cure the populace. Or, who knows? Maybe they\u2019ll all go berserk and try to kill you even harder. I don\u2019t really know. I\u2019m not nearly as omnipotent as those sadistic assholes think. Quarantine? They already know it doesn\u2019t work. Not when they want to keep their precious enhancement zones humming. They\u2019re in for a big surprise one of these days. \nReward : Well, you can leave the town. That\u2019s a good reward. Plus, the town will revert to a working settlement, and all the shops and structures will become activated again, assuming any of the workers are still alive. And why not? We\u2019ll also throw in a Silver Quest Box.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 10",
+    "id": "83c2acdd-3d15-5e5b-b3e9-4680e7a41082"
+  },
+  {
+    "title": "The Missing Piece",
+    "description": "New Quest. The Missing Piece. \nThis is a hybrid world quest. All crawlers who are dumb enough to still be stuck on the eighth floor have been added to this quest. \nEvery remaining crawler within the region of Cuba has been designated as host of this quest. \nThis quest contains two parts. Part one is called \u201cThe Big O.\u201d \nOnly those in the Cuba region may participate in part one. If they are successful, part two will initiate and will include everyone else. In the meantime, this upcoming battle will air on all screens throughout the dungeon for those outside the Cuba region. \nThe demon Amayon, prince of Sheol, is stuck in this world, banished here by one of his three brothers. \nYsalte, his former girlfriend and mother of his child, has also stepped into the realm, and she has seized control of the demon, just as he once seized her when she tried to flee their relationship. \nHe wants to go home. \nShe wants to keep him under her control and bring him with her to the Ascendency, where he will act as her retainer until the Ascendency battles are complete. While all the other gods have been waking up long-forgotten deities to assist them, the Vinegar Bitch knows having a prince of hell at her side will help ensure her claim to the throne. \nShe will return to the realm in ten minutes. If Amayon remains fully under her control when that timer is complete, they will both teleport away to the Ascendency. \nIf that happens, everyone without keys is dead. There will be no more chances. \nIn order to break free from Ysalte\u2019s grip, Amayon must begin the casting of his spell to return home. In order to do that, he must be strong enough to cast it. How will he be given strength? Maybe you should ask him. \nIf he has broken free from her control by the time the timer runs out, then she will leave, and he will remain and will eventually travel home. \nThe stronger he is by the time the timer runs out, the bigger the spell will have to be. If he is at full power, that spell will cover the entire world, and everyone within it will have hope to make it to the next floor. \nOh, and one last thing. \nThis is the eighth floor after all. \nClank, clank, clank, clank.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "is_split": true,
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Unknown",
+    "id": "0d916edb-a6a7-5d3e-8fa7-6cf4e8c4aaf0"
+  },
+  {
+    "title": "The Chowder War",
+    "description": "New Quest. The Chowder War. \nOh, you\u2019re getting involved whether you like it or not. \nThe Monk Seals. The Red Man\u00edseros Land Crabs. \nWar is brewing, as it often does in these parts. Every season, the land crabs emerge from their forests to attend their sex parties in the oceans surrounding these lands. The Monk Seals hold the ocean sacred, and the very act of spilling so much crab chowder into their holy waters is considered a sacrilege most foul. This is no minor inconvenience. And it\u2019s not just a few little clouds of the batter, either. There are a lot of these crabs. Like, a lot. And when they let go... man. It\u2019s like a category 5 jizz storm down there. Fish die. The food becomes scarce. The baby monk seals and their food supplies are literally getting bukkaked to death with gallons of weird, chunky crab splooge. \nAnd no, that\u2019s not a sentence even I thought I\u2019d ever utter. \nWould you want that for your own children? Nope. I didn\u2019t think so. It\u2019s disgusting, and it must be stopped at all costs. \nFor the Red Man\u00edseros Land Crabs, it\u2019s a matter of survival. It\u2019s not their fault they can only have babies in the ocean. It\u2019s not their fault they\u2019ve had to wait a whole year to let go. They don\u2019t want to do it there. They can barely swim. Water is a terrible lubricant. And to make matters worse, these psychotic seals are always losing their minds every time they get anywhere near the coastline. So as a method of self-defense, they\u2019ve learned the deadly art of Juego de man\u00ed. \nChoose a side. Put an end to this conflict, one way or another. \nReward : You will receive a Platinum Quest Box.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Unknown",
+    "id": "aaafc7c5-7332-5c58-9066-26745eef35b8"
+  },
+  {
+    "title": "There are quite a few crawlers in Indonesia, which is the closest landmass on the opposite side of the Earth from Havana",
+    "description": "new quest. There are quite a few crawlers in Indonesia, which is the closest landmass on the opposite side of the Earth from Havana. They will be in the most danger if you do not buff that demon enough. You will need them on the next floor if you hope to win. Speaking of, Princess Donut has been keeping me apprised of how the voting is going for Faction Wars. I understand you\u2019re still at an impasse. \nCarl : I will do my best. And yes, ever since everybody got stuck and the system AI refused to let them bounce, they\u2019ve all been declining to vote in anything and are instead just trying to sue over and over. They\u2019re being a bunch of pansies. Meanwhile, the NPC rebels have been sabotaging them at every turn. \nPrepotente : Well, I do look forward to seeing how all that turns out. Now I will be going down the stairs. \nCarl : Take care of yourself. \nPrepotente : Oh, and Carl? \nCarl : Yes? \nPrepotente : I\u2019ve decided to not kill you for letting my mother hurt herself. I have been contemplating it for some time now. I\u2019ve decided you were too stupid to have done anything about it anyway. Your penance will be to assist me in exacting my revenge on the true culprits.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "is_split": true,
+    "quest_status": "Started",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Part Of",
+    "id": "f8cbfabb-0f8c-5f27-929a-45f753241804"
+  },
+  {
+    "title": "The Missing Piece",
+    "description": "Quest Update. The Missing Piece. Part Two. \u201cFalling Up.\u201d \nThe Vinegar Bitch is no more. \nHer sponsor, by the way, is currently reading the fine print on his contract, and let me tell you, he\u2019s pretty mad. Probably not as mad as he\u2019s going to be in a few days, but hey, one step at a time. \nAmayon is free, and he is going home to wage war upon his brother. Hopefully an all-out war in Sheol won\u2019t spill outside the 15 th floor. \nPowered by the flash presence of billions of souls and buffed with the flames of home, Amayon has already cast his spell. Soon, the heavens will open, and Amayon will ascend into the portal. \nThanks to the sheer number of souls consumed just to power up the spell, the area of the casting has moved outward from the point of origin and encompassed the entire world. \nIn other words, yes. All you crawlers in Cuba pulled it off. Especially Carl who literally pulled off a guy named Raul to make this happen. And in case you don\u2019t get the metaphor: Carl jerked off a crab.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 72",
+    "id": "5e4f68d9-47c8-5bf2-87cf-0a65299ab37b"
+  },
+  {
+    "title": "The Chowder War",
+    "description": "Quest Update. The Chowder War. \nThe migration has begun, and it\u2019s a sneak attack! The crabs have pulled a fast one. Instead of spreading their incursions evenly upon the coast, they have massed in the south where the monk seals have the lowest concentration. United, they are scrambling toward the water, ready to release their seed. Once in the waves, they will trek around the coast, trailing destruction until the wretched monk seals are defeated once and for all and forever banished from these sacred lands. \nIt\u2019s time to choose a side. If you do nothing, odds are good this bloody conflict will soon spiral out of control. But if you choose to help the crabs, surely they will sweep to victory, choking the baby seals to death with their emissions. If you side with the seals, perhaps the kung fu masters will crush the advance of the crustaceans, ensuring a peaceful existence for generations to come. \nWhat will you do?",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 24",
+    "id": "8bbeb791-1759-56e7-b8d3-942a3a753ac6"
+  },
+  {
+    "title": "The Missing Piece Part One",
+    "description": "Quest Update! The Missing Piece Part One! \nDemon Lord Amayon is trapped! The very demon eviction event that allowed him to come to this realm is his undoing! Now that he\u2019s taken his true form, he does not have enough power to cast his spell! And what\u2019s worse, there aren\u2019t enough souls left in this dying world to even trigger the spell anyway. Everyone and everything is mostly dead! \nIf only there was a way to replace the souls that had triggered the event in the first place. \nThe same type of souls. The same flavor of chowder, so to speak. \nRefill the world with souls. Then power Amayon up before the timer runs dry. \nOh, and the demon may attempt to cast an alternative spell before you buff him up. You\u2019ll either have to stop him or convince him to wait. \nMatch resumes in thirty seconds.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 67",
+    "id": "ec38e3f0-bd3d-5454-9a67-1c4dd4c4688e"
+  },
+  {
+    "title": "God Shrines (Update)",
+    "description": "Shrine five! Asojano. The Lord of Smallpox. You know who this is. He\u2019s the reason you\u2019re in this pickle in the first place. If you repair his shrine, you will win the quest. The ghommids will all go back to normal. That\u2019s it. Asojano will not ascend. He\u2019s already proven he\u2019s too much of a dangerous asshole to let back into the Halls of Ascendency. \nBut... \nIf you don\u2019t repair his shrine, he will attack, and you will have to kill him. That\u2019s the boss battle. Don\u2019t forget that he\u2019s a city boss! He will also break the protection of the chamber allowing the ghommids to surge into the temple. That will probably suck. Killing him will cure them. I hope. \nFuck, fuck, fuck",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Part Of",
+    "id": "0b471c8f-702b-5a9a-a839-25f1b76e9bf1"
+  },
+  {
+    "title": "Pueblo de los Olvidados",
+    "description": "Quest Update! Pueblo de los Olvidados. \nAn Orisha is the source of the ghommid infection. He used the last remaining power of his shrine to enter town, and he\u2019s unable to leave. The vile power of his presence has altered the minds of the town\u2019s residents, turning them mad. Remove him to free the town. \nYou need to go to the temple in the center of the town, find the correct shrine, and \u201crepair\u201d it. That\u2019ll work. Uh, maybe. Or you can kill this guy. He doesn\u2019t look too tough. Or you can just kill everybody. That might be fun.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 11",
+    "id": "702e8bdf-39bd-507c-90b9-94e6de801c25"
+  },
+  {
+    "title": "Pueblo de los Olvidados",
+    "description": "Winner! \nCombat Complete. Deck has been reset. \nQuest Complete. Pueblo de los Olvidados. \nMedium Ghommid Settlement has been liberated. \nCongratulations. You may now exit the settlement. \nThe surviving ghommids have been cured. \nEntering Club Vanquisher Entrance Temple, The Temple of Yemaya. \nWelcome, Friend of Yemaya. \nThe goddess will soon make an appearance. \nSystem Message. The Goddess Yemaya has re-ascended. She is welcomed into the family by all.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Unknown",
+    "id": "300e940b-18ae-5f6c-8db5-a18f3c3326f8"
+  },
+  {
+    "title": "The Chowder War",
+    "description": "Quest Update. The Chowder War. \nCrawler Sister Ines Quiteria has negotiated an agreement with the Monk Seal Abbot and has warned him of the vile treachery of the crabs. The sneak attack will likely turn into a slaughter without your intervention! What will you do? Will you side with your fellow crawler, or will you turn this into a rumble for the ages?",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 24",
+    "id": "0bc90aaf-cd6b-5696-81a7-d8ac38c3c4f3"
+  },
+  {
+    "title": "The Bedlam Bride",
+    "description": "New Quest. The Bedlam Bride. \nAn escort quest? Really? Psshhh. Piece of cake. \nThe problem is, you\u2019re the cake. \nThe Screamer. Shi Maria. The Widow Endless. The Bedlam Bride. It doesn\u2019t matter what her name is today. Get her crazy ass to the city of Larracos. That\u2019s it. That\u2019s the quest. \nReward : A simple prize for a simple quest.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Started",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Unknown",
+    "id": "ee6332b7-a805-5d2c-b2b7-a63ce9fe9edb"
+  },
+  {
+    "title": "Spiders",
+    "description": "New Quest! Spiders. \nWarning: This quest comes from a deity you do not worship. You are not required to complete this quest, but they might not like it if you ignore them. \nKill five spiders in my name every day until I ask you to stop. \nReward : You will receive another boon from me.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Unknown",
+    "id": "01634a68-3dad-59a7-ba8f-ce1bf7e52e83"
+  },
+  {
+    "title": "Find out Who Killed my Son",
+    "description": "Quest Update. Find out Who Killed my Son. \nIt appears the primordial goddess Nekhebit has returned to the halls. She holds an ancient grudge against my family, especially Apito. Find a temple of Nekhebit and question the priestess, see what she knows. Do not be gentle.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 38",
+    "id": "b6ff4522-e829-5b09-b83e-5bfc58ad7895"
+  },
+  {
+    "title": "Find out who killed my son",
+    "description": "Quest Update. Find out who killed my son. \nYou have a rare opportunity to question Amayon, one of the four princes of Sheol as to who murdered my son, Geyrun. He may have some insight into the matter. Do not allow this opportunity to go to waste.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Updated",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 58",
+    "id": "b9b9dd2b-9914-592f-a30b-8f138dd13b81"
+  },
+  {
+    "title": "Spiders",
+    "description": "Quest Complete. Spiders. \nProceed to a temple of Eileithyia to receive your boon.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Unknown",
+    "id": "b9b590a6-d2ae-5fea-9899-bed5c7df969f"
+  },
+  {
+    "title": "Hell Comes to Crawler Town",
+    "description": "Quest Complete. Hell Comes to Crawler Town. \nQuest Complete. The Missing Piece.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Part To",
+    "id": "ef42b07c-c799-5feb-a48e-da9f372c4d28"
+  },
+  {
+    "title": "Where the Sidewalk Ends",
+    "description": "Quest Complete. Where the Sidewalk Ends. \nPlease wait...",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "is_split": true,
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 66",
+    "id": "e546608a-b3e1-5712-a584-02a741c53346"
+  },
+  {
+    "title": "The Missing Piece",
+    "description": "Quest Complete. The Missing Piece. Part One.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 69",
+    "id": "0fb8a58a-97e0-5b7f-93df-60520f67241b"
+  },
+  {
+    "title": "The Chowder War",
+    "description": "Quest Failed. The Chowder War.",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Failed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Part Of",
+    "id": "c91529f5-4250-515f-be85-bd4f96f3cbdc"
+  },
+  {
+    "title": "",
+    "description": "Quest Complete!",
+    "source_file": "The Eye of the Bedlam Bride_ Du - Matt Dinniman.txt",
+    "quest_status": "Completed",
+    "book_title": "Book 6: The Eye of the Bedlam Bride",
+    "chapter": "Chapter 36",
+    "id": "052cf23a-d2ba-56ec-8984-78fd231705c6"
+  }
+]
