@@ -30,5 +30,29 @@
     "end_ms": 1745000,
     "clip_filename": "book1_empty_pockets.mp3",
     "version": "Standard Audiobook"
+  },
+  {
+    "id": "82adc578-17f5-5ac0-8c74-ebfa30b246e0",
+    "source_audio": "Matt Dinniman - Dungeon Crawler Carl.m4b",
+    "start_ms": 1745410,
+    "end_ms": 1759660,
+    "clip_filename": "book1_no_pants.mp3",
+    "version": "Standard Audiobook"
+  },
+  {
+    "id": "5b804fc2-dcf5-59d9-bd6a-257501fbacf4",
+    "source_audio": "Matt Dinniman - Dungeon Crawler Carl.m4b",
+    "start_ms": 1759580,
+    "end_ms": 1781700,
+    "clip_filename": "book1_unarmed_combat.mp3",
+    "version": "Standard Audiobook"
+  },
+  {
+    "id": "8e004a27-1ef5-5c5b-97b5-65d922520a1e",
+    "source_audio": "Matt Dinniman - Dungeon Crawler Carl.m4b",
+    "start_ms": 1781420,
+    "end_ms": 1799240,
+    "clip_filename": "book1_loner.mp3",
+    "version": "Standard Audiobook"
   }
 ]

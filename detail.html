@@ -26,12 +26,14 @@
         const urlParams = new URLSearchParams(window.location.search);
         const achId = urlParams.get('id');
 
-        // This would eventually fetch from the real JSONs
         const audioMap = {
             "6da418cc-dfd0-5f62-af0f-d44de377e511": { title: "Crazy Cat Lady", book: "Book 1", clip: "book1_crazy_cat_lady.mp3", desc: "Congratulations! You’ve earned your first achievement: Crazy Cat Lady. You have entered the World Dungeon accompanied by a cat. Ahh, isn’t that sweet? Reward: You’ve received a Bronze Pet Box!" },
             "1259f2b8-ce11-54c7-b4d7-5f879961c1d7": { title: "Trailblazing Crazy Cat Lady", book: "Book 1", clip: "book1_trailblazing_ccl.mp3", desc: "New achievement! Trailblazing Crazy Cat Lady. You are the first crawler to have entered to the World Dungeon accompanied by a cat. You must really love that thing. Too bad you’re both probably going to die a horrible death at any moment. Or maybe not. Look at the prize you just received! Reward: You’ve received a Legendary Pet Box!" },
             "77a4d4c7-514b-5616-b1ef-f8caf3f2377d": { title: "Early Adopter", book: "Book 1", clip: "book1_early_adopter.mp3", desc: "New achievement! Early Adopter. You are one of the first 5,000 Crawlers to enter a new World Dungeon. Sucker. Reward: You’ve received a Silver Adventurer Box!" },
-            "beaf4e9c-7a2a-5030-ae5c-8a75670323c1": { title: "Empty pockets", book: "Book 1", clip: "book1_empty_pockets.mp3", desc: "New achievement! Empty pockets. You didn’t bring any supplies. None. You know you still gotta eat, right? Reward: You’ve received a Bronze Adventurer Box!" }
+            "beaf4e9c-7a2a-5030-ae5c-8a75670323c1": { title: "Empty pockets", book: "Book 1", clip: "book1_empty_pockets.mp3", desc: "New achievement! Empty pockets. You didn’t bring any supplies. None. You know you still gotta eat, right? Reward: You’ve received a Bronze Adventurer Box!" },
+            "82adc578-17f5-5ac0-8c74-ebfa30b246e0": { title: "Why aren’t you wearing pants?", book: "Book 1", clip: "book1_no_pants.mp3", desc: "New achievement! Why aren’t you wearing pants? You entered the dungeon wearing no pants. Dude. Seriously? Reward : You’ve received a Gold Apparel Box!" },
+            "5b804fc2-dcf5-59d9-bd6a-257501fbacf4": { title: "Unarmed combat", book: "Book 1", clip: "book1_unarmed_combat.mp3", desc: "New achievement! Unarmed combat. So. You just gonna waltz right into something called a “World Dungeon” and you’re not even going to bring a weapon? You’re either braver than you look, or you’re just an idiot. Good luck with that, Van Damme. Reward : You’ve received a Bronze Weapon Box!" },
+            "8e004a27-1ef5-5c5b-97b5-65d922520a1e": { title: "Loner", book: "Book 1", clip: "book1_loner.mp3", desc: "New achievement! Loner. You entered the dungeon without any human companions. Didn’t anyone teach you there is safety in numbers? Reward : None! Haha. You are so dead." }
         };
 
         const data = audioMap[achId];
